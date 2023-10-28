@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
+showbib: false
+
 profile:
   align: right
   image: prof_pic.jpg
