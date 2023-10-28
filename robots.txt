@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: pamelaferretti.github.io/al-folio/sitemap.xml
