@@ -1,42 +1,28 @@
 - title: Teaching Experience
   contents:
-    - title: Distributed Systems
-      role: Co-Lecturer
-      year: since 09/23
-      language: English
-      level: Master
-    - title: Time Series Analysis and Forecasting
+    - title: Mother and infant microbiomes in the clinical practice
       role: Lecturer
-      year: 04/22 - 09/22
+      year: 10/2021
+      language: Italian
+      level: PhD
+    - title: Python 
+      role: Lecturer
+      year: 10/2018 - 11/2018
       language: English
+      level: PhD
+    - title: Microbiome and thermal medicine 
+      role: Lecturer
+      year: 05/2016 and 05/2015
+      language: Italian
       level: Master
-    - title: Advance Programming
-      role: Co-Lecturer
-      year: 10/21 - 03/22
+    - title: various topics in IT and business engineering    
+      role: Tutor
+      year: 2014 - 2017
+      language: Italian
+      level: BSc and MSc
+    - title: Metagenomics and next generation sequencing platforms
+      role: Tutor
+      year: 09/2014
       language: English
-      level: Master
-    - title: Computer Science - Getting Started
-      role: Co-Lecturer
-      year: 04/21 - 09/21
-      language: German
-      level: Bachelor
-    - title: Operating Systems
-      role: Co-Lecturer
-      year: 10/20 - 03/21
-      language: German
-      level: Bachelor/Master
-    - title: Software Engineering Seminar
-      role: Instructor
-      year: 10/16 - 03/21
-      language: German
-      level: Bachelor/Master
-    - title: Exercise for Operating Systems
-      role: Coordinator & instructor
-      year: 10/16 - 03/21
-      language: German
-      level: Bachelor/Master
-    - title: Practical Course in Software
-      role: Coordinator & instructor
-      year: 10/16 - 09/19
-      language: German
-      level: Bachelor
+      level: BSc
+ 
