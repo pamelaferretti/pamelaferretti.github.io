@@ -1,52 +1,15 @@
 - title: Academic Career
   type: time_table
   contents:
-    - title: Postdoctoral scholar (Prof. Ran Blekhman)
-      institution: University of Chicago, United States
-      year: since 2023
-    - title: Bridging postdoctoral scholar (Prof. Peer Bork) 
+    - title: Associated researcher
+      institution: Argonne National Laboratory, Lemont, United States
+      year: since 01/2023
+    - title: Postdoctoral scholar (Prof. Ian Foster)
+      institution: University of Chicago, Chicago, United States
+      year: since 10/2022
+    - title: Research group leader (Prof. Samuel Kounev) 
       institution: University of Würzburg, Würzburg, Germany
-      year: 2022 - 2022
-    - title: Research assistant (Prof. Nicola Segata)
-      institution: University of Trento, Italy
-      year: 2016 - 2017
-
-- title: Academic Education
-  type: time_table
-  contents:
-    - title: Dr. rer. nat. (Computational Biology) - Prof. Peer Bork
-      institution: EMBL, Heidelberg, Germany
-      year: 2017 - 2022
-    - title: Master of Science (Cellular and Molecular Biotechnology) - Prof. Nicola Segata
-      institution: University of Trento, Italy
-      year: 2014 - 2016 
-    - title: Bachelor of Science (Computer Science) - Prof. Nicola Segata
-      institution: University of Trento, Italy
-      year: 2011 - 2014 
-      
-- title: Awards, Fellowships, and Scholarships
-  type: time_table
-  contents:
-    - title: Poster Award
-      institution: International Society for Microbial Ecology (ISME), Lausanne, Switzerland
-      year: 08/2022
-    - title: Poster Award
-      institution: EMBL Heidelberg, Germany
-      year: 09/2018
-    - title: Merit Award
-      institution: University of Trento, Italy
-      year: 04/2017
-    - title: Travel Grant
-      institution: Symbiomes: Systems biology of host-microbe interactions, Pultusk, Poland
-      year: 04/2022
-      
-- title: Academic Service
-  type: time_table
-  contents:
-    - title: Conference Organisation Committee
-      institution: Microbiome Virtual International Forum (MVIF)
-      year: since 02/2023
-    - title: Organisation Member
-      institution: International Society for Microbial Ecology (ISME)
-      year: since 08/2023
-
+      year: 01/2021 - 10/2022
+    - title: Research assistant (Prof. Samuel Kounev)
+      institution: University of Würzburg, Würzburg, Germany
+      year: 10/2016 - 12/2020
