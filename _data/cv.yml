@@ -43,12 +43,28 @@
       institution: Symbiomes - Systems biology of host-microbe interactions, Pultusk, Poland
       year: 04/2022
 
+- title: Scientific Journal Covers
+  type: time_table
+  contents:
+    - title: Nature Reviews Microbiology
+      paper: Diversity within species: interpreting strains in microbiomes
+      institution: EMBL Heidelberg
+      year: 05/2020
+    - title: Cell Host & Microbe
+      paper: Mother-to-Infant Microbial Transmission from Different Body Sites Shapes the Developing Infant Gut Microbiome
+      institution: Universita di Trento, Italy - EMBL Heidelberg
+      year: 08/2018
+      
 - title: Academic Service
   type: time_table
   contents:
+    - title: Invited Reviewer for 15+ manuscripts
+      journal: Nature Communications, PLoS Computational Biology, FEMS Microbiology Ecology, Current Opinion in Microbiology and Scientific Reports
+      year: since 02/2023
     - title: Conference Organisation Committee
       institution: Microbiome Virtual International Forum (MVIF)
       year: since 02/2023
     - title: Organisation Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
+
