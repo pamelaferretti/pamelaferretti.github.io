@@ -7,9 +7,9 @@ importance: 3
 category: fun
 ---
 
-This project started during the pandemic lockdowns, as an attempt to help reducing misinformation about mRNA vaccines. I plan to keep expanding it with other topics, suggestions are welcome!
+When vaccines and mRNA were everywhere on the news, lots of people found themeselves struggling to understand which sources were credible and which were not. I started drawing some illustrations with pen and paper for my family members and friends that had reached out to me to ask questions. I quickly realised that the sketches I was doing could be useful to other people beyond my family, and that's how the idea of Easy Infographics started. This project, born during the pandemic lockdowns, was an attempt to help reducing misinformation about mRNA vaccines using clear, user-friendly graphics. So I reached out to [Eleonora Nigro](https://www.eleonoranigro.com/), a talented young researcher with a passion for graphical illustration, and asked her if she wanted to join the team.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+As the goal was to increase scientific outreach on this important topic, we asked friends and colleagues to help us translate the illustrations in 7 languages: English, Italian, Spanish, Portugese, French, German and Russian! (see website for full credits list). 
 
     ---
     layout: page
@@ -18,20 +18,8 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+We did every illustration with a more fun theme:
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -41,38 +29,15 @@ To give your project a background in the portfolio page, just add the img tag to
     How does the COVID-19 mRNA vaccine work?
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+and one a bit more traditional:
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    How does the COVID-19 mRNA vaccine work?
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+This project was also our way to cope with the lockdowns while being away from our families, and to make a difference, no matter how small. 
