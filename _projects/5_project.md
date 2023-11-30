@@ -2,7 +2,7 @@
 layout: page
 title: Easy Infographics
 description: Easy-to-understand infographics about science-related topics
-img: assets/img/1.jpg
+img: assets/img/5.jpg
 importance: 3
 category: fun
 ---
@@ -15,7 +15,7 @@ As the goal was to increase scientific outreach on this important topic, we aske
     layout: page
     title: Easy Infographics
     description: Easy-to-understand infographics about science-related topics
-    img: /assets/img/12.jpg
+    img: /assets/img/5.jpg
     ---
 
 We did every illustration with a more fun theme:
