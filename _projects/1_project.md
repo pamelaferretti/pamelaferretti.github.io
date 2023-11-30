@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-I helped designing in collaboration with [Iris Kruijen](https://nl.linkedin.com/in/iriskruijen) (EMBL Press Office) and [Alexandra Krolik](https://www.embl.org/about/info/communications/blog/author/aleksandra-krolik/) (EMBL Design Lab), the cover for Cell Host & Microbe. The cover features a mother protecting her infant with an umbrella, surrounded by a colorful microbial world. The CHM issue included two back-to-back publications: [Ferretti et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303172?via%3Dihub) and [Yassour et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303196?via%3Dihub)
+I helped designing in collaboration with [Iris Kruijen](https://nl.linkedin.com/in/iriskruijen) ([EMBL](https://www.embl.org/sites/heidelberg/) Press Office) and [Alexandra Krolik](https://www.embl.org/about/info/communications/blog/author/aleksandra-krolik/) (EMBL Design Lab), the cover for Cell Host & Microbe. The cover features a mother protecting her infant with an umbrella, surrounded by a colorful microbial world. The CHM issue included two back-to-back publications: [Ferretti et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303172?via%3Dihub) and [Yassour et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303196?via%3Dihub)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
