@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-I helped designing in collaboration with Iris Kruijen (EMBL Press Office) and Alexandra Krolik (EMBL Design Lab), the cover for Cell Host & Microbe, issue of July 2018. The cover features a mother protecting her infant with an umbrella, surrounded by a colorful microbial world. The CHM issue included two back-to-back publications: Ferretti et al. and Yassour et al.
+I helped designing in collaboration with [Iris Kruijen](https://nl.linkedin.com/in/iriskruijen) (EMBL Press Office) and [Alexandra Krolik](https://www.embl.org/about/info/communications/blog/author/aleksandra-krolik/) (EMBL Design Lab), the cover for Cell Host & Microbe, issue of July 2018. The cover features a mother protecting her infant with an umbrella, surrounded by a colorful microbial world. The CHM issue included two back-to-back publications: [Ferretti et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303172?via%3Dihub) and [Yassour et al.](https://www.sciencedirect.com/science/article/pii/S1931312818303196?via%3Dihub)
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
