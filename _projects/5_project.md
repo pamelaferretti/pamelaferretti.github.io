@@ -1,22 +1,20 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Easy Infographics
+description: Easy-to-understand infographics about science-related topics
 img: assets/img/1.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project started during the pandemic lockdowns, as an attempt to help reducing misinformation about mRNA vaccines. I plan to keep expanding it with other topics, suggestions are welcome!
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: Easy Infographics
+    description: Easy-to-understand infographics about science-related topics
     img: /assets/img/12.jpg
     ---
 
@@ -40,7 +38,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    How does the COVID-19 mRNA vaccine work?
 </div>
 
 You can also put regular text between your rows of images.
