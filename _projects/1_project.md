@@ -24,8 +24,6 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Cell Host and Microbes Cover published in july 2018
+    A mother shares with her newborn part of her microbiome. The transfer of microbes from multiple maternal bodysites shapes the infant microbiome at birth and during the first weeks of life. In this issue, two papers by Ferretti and colleagues and by Yassour and colleagues use metagenomics with strain-resolved computational profiling to map the transfer of microbial strains from mothers to their infants in two separate longitudinal mother/infant cohorts. Multiple maternal body sites contribute to the developing infant microbiome, with maternal gut strains providing the largest contribution of colonizing microorganisms. Transmitted skin and vaginal strains are however quickly disappearing from the infant microbiome few days after birth. Of the maternal gut strains, the infant is not always colonized by the mother's dominant strain and sometimes inherits her secondary strains, potentially due to the unique environment of the infant gut. Maternal microbes are also more likely to result in a long-lasting colonization in infants than microbes from other sources. The cover image captures this intimate sharing of microbial strains between mothers and their infant and the potential role that maternal microbes play in protecting the infant against microbes from other sources.
 </div>
-
-Curious how we got there? You can check out the brainstorming ideas below
 
