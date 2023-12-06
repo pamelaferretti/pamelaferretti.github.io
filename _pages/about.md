@@ -12,6 +12,7 @@ profile:
   location: University of Chicago, US
   email: pamela.ferretti@uchicago.edu
   googlescholar: https://scholar.google.com/citations?user=qty8iCEAAAAJ&hl=en
+  orcid: https://orcid.org/0000-0002-1707-9013
   
 
 news: true  # includes a list of news items
