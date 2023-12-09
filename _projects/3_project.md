@@ -3,7 +3,6 @@ layout: page
 title: Nature Reviews Microbiology
 description: strain review
 img: assets/img/2.jpg
-redirect: https://unsplash.com
 importance: 3
 category: covers
 ---
