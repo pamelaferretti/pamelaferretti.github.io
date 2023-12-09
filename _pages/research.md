@@ -9,7 +9,7 @@ nav_order: 1
 # Main areas of Research:
 
 
-## **C. difficile: pathogen or commensal?**
+## **_C. difficile_: pathogen or commensal?**
 
 _C. difficile_ has been listed by the CDC among the most urgent threats in hospital-acquired infections, and it is often described in the literature as "well known human pathogen" responsible for C. difficile infection (CDI). My PhD work focused on investigating the composition and stability of the gut microbiome in presence of _C. difficile_. To do so, I first studied _C. difficile_ in the most obvious context: CDI patients. However, among those patients, _C. difficile_ carriage was suprisingly low: only 30%. I instead found elevated carriage of other pathogenic species that are known to be able to induce CDI-like symptomatology, suggesting over-diagnosis in the evaluated studies. I then expanded my scope of study, including not only public metagenomic studies on adult/elderly CDI patients, but also healthy subjects of all ages, animals and the environment. I put together a collection of 42,900 publicly available metagenomic samples, curated their associated metadata, and then leveraged this dataset to investigate the global biogeography and genetic variability of _C. difficile_. I found that _C. difficile_ is most prevalent (up to 76%) and abundant in healthy infants, and that _C. difficile_ in this age group is associated with multiple indicators of a healthy infant gut microbiome development. **This study represents the  largest single-species metagenomic survey to date, providing systematic, world-wide analysis of _C. difficile_ carriage and associated microbiome composition.**
 
