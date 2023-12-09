@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /artistic/
-title: Academic and Artistic Outreach
+title: Journal Covers and Outreach
 nav: true
 nav_order: 5
 display_categories: [work, fun]
