@@ -3,7 +3,7 @@ layout: page
 permalink: /artistic/
 title: Journal Covers and Outreach
 nav: true
-nav_order: 5
+nav_order: 6
 display_categories: [covers, outreach]
 horizontal: false
 ---
