@@ -11,12 +11,6 @@ When vaccines and mRNA were everywhere on the news, lots of people found themese
 
 As the goal was to increase scientific outreach on this important topic, we asked friends and colleagues to help us translate the illustrations in 7 languages: English, Italian, Spanish, Portugese, French, German and Russian! (see website for full credits list). 
 
-    ---
-    layout: page
-    title: Easy Infographics
-    description: Easy-to-understand infographics about science-related topics
-    img: /assets/img/5.jpg
-    ---
 
 We did every illustration with a more fun theme:
 
