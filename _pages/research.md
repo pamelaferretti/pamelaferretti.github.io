@@ -10,7 +10,7 @@ nav_order: 1
 
 ### **_C. difficile_: pathogen or commensal?**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:20px" src="/assets/img/3.jpg">
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
 
 _C. difficile_ has been listed by the CDC among the most urgent threats in hospital-acquired infections, and it is often described in the literature as "well known human pathogen" responsible for C. difficile infection (CDI). My PhD work focused on investigating the composition and stability of the gut microbiome in presence of _C. difficile_. To do so, I first studied _C. difficile_ in the most obvious context: CDI patients. However, among those patients, _C. difficile_ carriage was suprisingly low: only 30%. I instead found elevated carriage of other pathogenic species that are known to be able to induce CDI-like symptomatology, suggesting over-diagnosis in the evaluated studies. 
 <br/><br/>
@@ -22,7 +22,7 @@ _Practical applications:_
 <br/><br/>
 ### **Mother-to-infant microbiome transmission**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:20px" src="/assets/img/4.jpg"> 
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
 
 I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
 
@@ -33,7 +33,7 @@ _Practical applications:_
 <br/><br/>
 ### **Microbial strains: what are they and how to interpret them**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:20px" src="/assets/img/7.jpg"> 
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
 I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
 
