@@ -27,7 +27,7 @@ _Practical applications:_
 
 **Microbial strains: what are they and how to interpret them**
 
-![Microbial diversity below the species-level](/assets/img/6.jpg)
+![Microbial diversity below the species-level](/assets/img/7.jpg)
 
 _Practical applications:_
 
