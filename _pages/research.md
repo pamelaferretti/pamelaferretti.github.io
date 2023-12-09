@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-<br/><br/>
+
 
 ### **_C. difficile_: pathogen or commensal?**
 
