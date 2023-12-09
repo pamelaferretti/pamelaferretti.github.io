@@ -24,10 +24,10 @@
       institution: University of Trento, Italy
       year: 2011 - 2014 
 
-- title: Awards, Fellowships, and Scholarships
+- title: Awards
   type: time_table
   contents:
-    - title: Travel Grant
+    - title: Travel Award
       institution: University of Chicago for the EMBL conference "The Human Microbiome" (Germany)
       year: 09/2023
     - title: Poster Award
@@ -39,7 +39,7 @@
     - title: Merit Award
       institution: University of Trento, Italy
       year: 04/2017
-    - title: Travel Grant
+    - title: Travel Award
       institution: EMBO for the conference "Symbiomes - Systems biology of host-microbe interactions" (Poland)
       year: 04/2016
       
