@@ -24,16 +24,19 @@ _Practical applications:_
 
 <img align="left" width="500" height="350" src="/assets/img/4.jpg"> 
 
-I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
+I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
 
 _Practical applications:_
 
+
+<br/><br/>
 <br/><br/>
 ### **Microbial strains: what are they and how to interpret them**
 
 <img align="left" width="500" height="350" src="/assets/img/7.jpg"> 
 
-Text here :)
+I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
 
 _Practical applications:_
 
+<br/><br/>
