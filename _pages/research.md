@@ -1,10 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title: Main areas of research
 nav: true
 nav_order: 1
 ---
+
 
 **C. difficile: pathogen or commensal?**
 
