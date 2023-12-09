@@ -4,7 +4,7 @@ permalink: /artistic/
 title: Journal Covers and Outreach
 nav: true
 nav_order: 5
-display_categories: [work, fun]
+display_categories: [covers, outreach]
 horizontal: false
 ---
 
