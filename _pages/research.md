@@ -8,7 +8,7 @@ nav_order: 1
 
 
 
-### **_C. difficile_: pathogen or commensal?**
+### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
 <img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
 
@@ -31,7 +31,7 @@ _Practical applications:_
 
 <br/><br/>
 <br/><br/>
-### **Microbial strains: what are they and how to interpret them**
+### **How to define and identify strains in microbiome research**
 
 <img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
