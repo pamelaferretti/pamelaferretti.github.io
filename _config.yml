@@ -250,8 +250,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Bauer]
-  first_name: [André, A.]
+  last_name: [Ferretti]
+  first_name: [Pamela, P.]
 
   style: apa
   locale: en
