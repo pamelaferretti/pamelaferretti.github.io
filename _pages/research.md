@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: Main areas of research
+title: Research
+description: Main areas of research
 nav: true
 nav_order: 1
 ---
