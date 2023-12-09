@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Travel Grant
-      institution: University of Chicago, USA
+      institution: University of Chicago for the EMBL conference "The Human Microbiome"
       year: 09/2023
     - title: Poster Award
       institution: International Society for Microbial Ecology (ISME), Lausanne, Switzerland
@@ -40,7 +40,7 @@
       institution: University of Trento, Italy
       year: 04/2017
     - title: Travel Grant
-      institution: Symbiomes - Systems biology of host-microbe interactions, Pultusk, Poland
+      institution: EMBO for the conference "Symbiomes - Systems biology of host-microbe interactions, Pultusk, Poland"
       year: 04/2016
       
 - title: Academic Service
