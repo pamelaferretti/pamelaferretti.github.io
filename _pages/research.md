@@ -10,7 +10,7 @@ nav_order: 1
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
-<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
+<img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
 
 _C. difficile_ has been listed by the CDC among the most urgent threats in hospital-acquired infections, and it is often described in the literature as "well known human pathogen" responsible for C. difficile infection (CDI). My PhD work focused on investigating the composition and stability of the gut microbiome in presence of _C. difficile_. To do so, I first studied _C. difficile_ in the most obvious context: CDI patients. However, among those patients, _C. difficile_ carriage was suprisingly low: only 30%. I instead found elevated carriage of other pathogenic species that are known to be able to induce CDI-like symptomatology, suggesting over-diagnosis in the evaluated studies. 
 <br/><br/>
