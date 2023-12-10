@@ -22,7 +22,7 @@ _Practical applications:_
 <br/><br/>
 ### **Mother-to-infant microbiome transmission**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
+<img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
 
 I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. I led a study investigating how the maternal microbiome seeds and shapes the infant microbiome in the first semester of life. For this study, I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento.
 
