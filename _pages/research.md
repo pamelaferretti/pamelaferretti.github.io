@@ -32,7 +32,7 @@ _Relevance of the study: Understanding the routes of microbial transmission from
 <br/><br/>
 ### **How to define and identify strains in microbiome research**
 
-<img align="left" width="50" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
 Most studies look at species-level composition, but often the presence (or absence) of a single gene, or a set of genes, can make the difference between health and disease. Hence, the importance of diving into the strain-level world. In this work, I explored (with Thea Van Rossum and Oleksandr Maistrenko) the mechanisms that drive variability within bacterial species and the challenges in stratifying such variability, providing harmonized terminology and the associated scope of applicability. This Review, which took more than a year to write and gave us all a fair amount of headaches, touches important aspects of microbial ecology that are widely applicable (from human microbiome, to animals, to marine microbial ecosystems).
 
