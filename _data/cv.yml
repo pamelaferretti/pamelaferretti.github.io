@@ -28,13 +28,13 @@
   type: time_table
   contents:
     - title: Travel Award
-      institution: University of Chicago for the EMBL conference "The Human Microbiome" (Germany)
+      institution: University of Chicago for the EMBL conference "The Human Microbiome" 
       year: 09/2023
     - title: Poster Award
-      institution: International Society for Microbial Ecology (ISME), Lausanne, Switzerland
+      institution: ISME (International Society for Microbial Ecology), Lausanne, Switzerland
       year: 08/2022
     - title: Poster Award
-      institution: EMBL Heidelberg, Germany
+      institution: EMBL conference "The Human Microbiome", Heidelberg, Germany
       year: 09/2018
     - title: Merit Award
       institution: University of Trento, Italy
@@ -52,7 +52,7 @@
     - title: Conference Organisation Committee
       institution: Microbiome Virtual International Forum (MVIF)
       year: since 02/2023
-    - title: Organisation Member
+    - title: Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
       
