@@ -22,7 +22,7 @@ _Relevance of the study: Disentangling the real burden of C. difficile from othe
 <br/><br/>
 ### **Mother-to-infant microbiome transmission**
 
-<img align="left" width="380" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
+<img align="left" width="370" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started, first during my Master then in my PhD to investigate the most intimate relationship that the infant has: the one with the mother. I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
 
