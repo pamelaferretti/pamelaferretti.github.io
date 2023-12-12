@@ -7,7 +7,7 @@ importance: 3
 category: covers
 ---
 
-Our Review "Diversity within species: interpreting strains in microbiomes" was featured on the cover of the September Issue of Nature Reviews Microbiology. In this Review we discussed what are the levels of taxonomic resolution below the species-level, and we address questions such what is a strain? how can we identify and interpret strains in microbiome data?. We also discuss pitfalls, limitations and best practices when studying and interpreting strains.  
+Our Review ["Diversity within species: interpreting strains in microbiomes"](https://www.nature.com/articles/s41579-020-0368-1) was featured on the cover of the September Issue of Nature Reviews Microbiology. In this Review we discussed what are the levels of taxonomic resolution below the species-level, and we address questions such what is a strain? how can we identify and interpret strains in microbiome data?. We also discuss pitfalls, limitations and best practices when studying and interpreting strains.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
