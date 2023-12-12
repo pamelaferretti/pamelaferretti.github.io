@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nature Reviews Microbiology
-description: strain review
+description: Review on microbial diversity and strains
 img: assets/img/2.jpg
 importance: 3
 category: covers
