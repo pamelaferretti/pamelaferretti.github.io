@@ -12,7 +12,7 @@ nav_order: 1
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
-<img align="left" width="370" height="350" style="float:left; padding-right:15px" src="/assets/img/13.jpg"> 
+<img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/13.jpg"> 
 
 [Allert, Ferretti et al. 2024](https://www.biorxiv.org/)
 
@@ -21,7 +21,7 @@ Ideally, the maternal breastmilk represents the sole source of nutrition for the
 _**Relevance of the study:**_ _High-resolution characterization of the milk microbiome and its impact on the infant's gut microbiome is the first fundamental step towards its modulation, with the ultimate goal of improving both the mother's and the infant's health. In addition, understanding how microbes transmit between infants within the hospital can help improving healthcare policies and future study designs._ 
 
 <br/><br/>
-<img align="left" width="370" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
+<img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
 
 [Ferretti et al. 2018](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
 
