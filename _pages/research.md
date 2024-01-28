@@ -12,7 +12,7 @@ nav_order: 1
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
-<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/4_milk.jpg"> 
+<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/4a.jpg"> 
 
 [Allert, Ferretti et al. 2024](https://www.biorxiv.org/)
 
