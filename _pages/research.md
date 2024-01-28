@@ -8,7 +8,6 @@ nav_order: 1
 
 # **Microbiome transmission in humans and animals**
 
-<br/><br/>
 ### **Mother-to-infant transmission**
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
