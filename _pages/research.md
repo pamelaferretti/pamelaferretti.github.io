@@ -6,36 +6,60 @@ nav: true
 nav_order: 1
 ---
 
+<br/><br/>
+# **Microbiome transmission in humans and animals**
 
+### **Mother-to-infant transmission**
+
+At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
+
+<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/4_milk.jpg"> 
+
+[Allert, Ferretti et al. 2024](https://www.biorxiv.org/)
+
+Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. I also studied **strain sharing not only between the mother's milk and her infant's gut microbiome, but also across unrelated infants born at the same hospital**.     
+
+_**Relevance of the study:**_ _High-resolution characterization of the milk microbiome and its impact on the infant's gut is the first fundamental step towards its modulation, with the ultimate goal of improving both the mother's and the infant's health. In addition, understanding how microbes transmit between infants within the hospital can provide vital information future healthcare policies and better study designs._ 
+
+<br/><br/>
+<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
+
+[Ferretti et al. 2018](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
+
+Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
+
+_**Relevance of the study:**_ _Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._ 
+
+<br/><br/>
+### **Vertical and horizontal transmission in social groups**
+
+Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microbes are vertically and horizontally transmitted over life time in multiple large **groups of wild baboons, at the Amboseli National Park in Kenya**. Stay tuned for more updates! 
+
+<br/><br/>
+# **How to define and identify strains in microbiome research**
+
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
+
+[Van Rossum, Ferretti and Maistrenko 2020](https://www.nature.com/articles/s41579-020-0368-1)
+
+Most studies look at species-level composition, but often the presence (or absence) of a single gene, or a set of genes, can make the difference between health and disease. Hence, the importance of diving into the strain-level world. In this work, I explored (with Thea and Oleksandr) **the mechanisms that drive variability within bacterial species and the challenges in stratifying such variability, providing harmonized terminology and the associated scope of applicability.** This Review, which took >1 year to write and gave us all a fair amount of headaches, touches important aspects of microbial ecology that are widely applicable (from human microbiome, to animals, to marine microbial ecosystems).
+
+_**Relevance of the study:**_ _Our ability to reproduce results and compare them among studies depends on common terminology (e.g. what is a strain?) and agreement on gold standards (e.g. when are MAGs good enough to be used in strain-level analyses?). Knowing the importance of strain-level analysis, its challenges, and the limitations of the available tools guides the researchers towards better study design, analysis and costs allocation._
+
+<br/><br/>
+# **Global meta-analyses on large-scale metagenomic data**
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
 <img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
 
-_C. difficile_ has been listed by the CDC among the most urgent threats in hospital-acquired infections, and it is often described in the literature as "well known human pathogen" responsible for C. difficile infection (CDI). My PhD work focused on investigating the composition and stability of the gut microbiome in presence of _C. difficile_. To do so, I first studied _C. difficile_ in the most obvious context: CDI patients. However, among those patients, _C. difficile_ carriage was suprisingly low: only 30%. I instead found elevated carriage of other pathogenic species that are known to be able to induce CDI-like symptomatology, suggesting over-diagnosis in the evaluated studies. 
+[Ferretti et al. 2023](https://elifesciences.org/reviewed-preprints/90111)
+
+_C. difficile_ is one the most urgent threats in hospital-acquired infections. During my PhD, I leveraged public metagenomic data to investigate the composition and stability of the gut microbiome in presence of _C. difficile_. I found that patients diagnosed with  _C. difficile_ infection (CDI) had a suprisingly low carriage of _C. difficile_ (only 30%). In these patients, I instead found elevated carriage of other pathogens known to be able to induce CDI-like symptomatology, suggesting CDI over-diagnosis in the evaluated studies. 
 <br/><br/>
-I then expanded my scope of study, including not only public metagenomic studies on adult/elderly CDI patients, but also healthy subjects of all ages, animals and the environment. I put together a collection of 42,900 publicly available metagenomic samples, curated their associated metadata (yes was a lot of work!), and then leveraged this dataset to investigate the global biogeography and genetic variability of _C. difficile_. I found that _C. difficile_ is most prevalent (up to 76%) and abundant in healthy infants, and that _C. difficile_ in this age group is associated with multiple indicators of a healthy infant gut microbiome development. **This study represents the largest single-species metagenomic survey to date, providing systematic, world-wide analysis of _C. difficile_ carriage and associated microbiome composition.**
-<br/><br/>
-_Relevance of the study: Disentangling the real burden of C. difficile from other pathogenic species inducing the same symptomatology will help directing future research focus and fundings towards better diagnostic systems and diagnosis. In addition, understanding how C. difficile carriage remains asymptomatic will help understanding the mechnanisms behind CDI manifestation and progression._
+I then included in my meta-analysis healthy subjects of all ages, animal hosts and environmental samples. I assembled a collection of 42,900 metagenomic samples, curated their associated metadata (yes was a lot of work!), and then leveraged this dataset to investigate the global biogeography and genetic variability of _C. difficile_. I found that _C. difficile_ is most prevalent (up to 76%) and abundant in healthy infants, and that _C. difficile_ in infants is associated with multiple indicators of a healthy infant gut microbiome development. **This study represents the largest single-species metagenomic survey to date, providing systematic, world-wide analysis of _C. difficile_ carriage and associated microbiome composition.**
+
+_**Relevance of the study:**_ _Disentangling the real burden of C. difficile from other pathogenic species inducing the same symptomatology will help directing future research focus and fundings towards better diagnostic systems and diagnosis. In addition, understanding how C. difficile carriage remains asymptomatic will help understanding the mechnanisms behind CDI manifestation and progression._
 
 
-<br/><br/>
-### **Mother-to-infant microbiome transmission**
 
-<img align="left" width="350" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
-
-At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started, first during my Master then in my PhD to investigate the most intimate relationship that the infant has: the one with the mother. I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
-
-_Relevance of the study: Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._ 
-
-<br/><br/>
-<br/><br/>
-### **How to define and identify strains in microbiome research**
-
-<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
-
-Most studies look at species-level composition, but often the presence (or absence) of a single gene, or a set of genes, can make the difference between health and disease. Hence, the importance of diving into the strain-level world. In this work, I explored (with Thea Van Rossum and Oleksandr Maistrenko) **the mechanisms that drive variability within bacterial species and the challenges in stratifying such variability, providing harmonized terminology and the associated scope of applicability.** This Review, which took more than a year to write and gave us all a fair amount of headaches, touches important aspects of microbial ecology that are widely applicable (from human microbiome, to animals, to marine microbial ecosystems).
-
-_Relevance of the study: Our ability to reproduce results and compare them among studies depends on common terminology (e.g. what is a strain?) and agreement on gold standards (e.g. when are MAGs good enough to be used in strain-level analyses?). Knowing the importance of strain-level analysis, its challenges, and the limitations of the available tools guides the researchers towards better study design, analysis and costs allocation._
-
-<br/><br/>
