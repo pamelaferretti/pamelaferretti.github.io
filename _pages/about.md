@@ -8,7 +8,7 @@ subtitle:
 profile:
   align: right
   image: me.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   location: University of Chicago, US
   email: pamela.ferretti@uchicago.edu
   googlescholar: https://scholar.google.com/citations?user=qty8iCEAAAAJ&hl=en
