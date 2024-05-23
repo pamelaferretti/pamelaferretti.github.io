@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-# **Microbiome transmission in humans and animals**
+# **Microbiome transmission in humans**
 
 ### **Mother-to-infant transmission**
 
@@ -14,7 +14,7 @@ At birth, the infant gut represents a "blank sheet", which the microbes readily 
 
 <img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/14.png"> 
 
-[Allert, Ferretti et al. 2024](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1)
+[Allert and Ferretti et al. 2024 - BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1)
 
 Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. I also studied **strain sharing not only between the mother's milk and her infant's gut microbiome, but also across unrelated infants born at the same hospital**.     
 
@@ -23,7 +23,7 @@ _**Relevance of the study:**_ _High-resolution characterization of the milk micr
 <br/><br/>
 <img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
 
-[Ferretti et al. 2018](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
+[Ferretti et al. 2018 - Cell Host & Microbe](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
 
 Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
 
@@ -39,7 +39,7 @@ Studying microbial transmission dynamics with enough high spatial and temporal r
 
 <img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
-[Van Rossum, Ferretti and Maistrenko 2020](https://www.nature.com/articles/s41579-020-0368-1)
+[Van Rossum, Ferretti and Maistrenko 2020 - Nature Reviews Microbiology](https://www.nature.com/articles/s41579-020-0368-1)
 
 Most studies look at species-level composition, but often the presence (or absence) of a single gene, or a set of genes, can make the difference between health and disease. Hence, the importance of diving into the strain-level world. In this work, I explored (with Thea and Oleksandr) **the mechanisms that drive variability within bacterial species and the challenges in stratifying such variability, providing harmonized terminology and the associated scope of applicability.** This Review, which took >1 year to write and gave us all a fair amount of headaches, touches important aspects of microbial ecology that are widely applicable (from human microbiome, to animals, to marine microbial ecosystems).
 
@@ -52,7 +52,7 @@ _**Relevance of the study:**_ _Our ability to reproduce results and compare them
 
 <img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
 
-[Ferretti et al. 2023](https://elifesciences.org/reviewed-preprints/90111)
+[Ferretti et al. 2023 - eLife](https://elifesciences.org/reviewed-preprints/90111)
 
 _C. difficile_ is one the most urgent threats in hospital-acquired infections. During my PhD, I leveraged public metagenomic data to investigate the composition and stability of the gut microbiome in presence of _C. difficile_. I found that patients diagnosed with  _C. difficile_ infection (CDI) had a suprisingly low carriage of _C. difficile_ (only 30%). In these patients, I instead found elevated carriage of other pathogens known to be able to induce CDI-like symptomatology, suggesting CDI over-diagnosis in the evaluated studies. 
 <br/><br/>
