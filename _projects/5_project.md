@@ -4,7 +4,7 @@ title: Easy Infographics
 description: Easy-to-understand infographics about science-related topics
 img: assets/img/5.jpg
 importance: 3
-category: outreach
+category: Outreach
 ---
 
 When vaccines and mRNA were everywhere on the news, lots of people found themeselves struggling to understand which sources were credible and which were not. I started drawing some illustrations with pen and paper for my family members and friends that had reached out to me to ask questions. I quickly realised that the sketches I was doing could be useful to other people beyond my family, and that's how the idea of [Easy Infographics](https://easy-infographics.github.io/) started. This project, born during the pandemic lockdowns, was an attempt to help reducing misinformation about mRNA vaccines using clear, user-friendly graphics. So I reached out to [Eleonora Nigro](https://www.eleonoranigro.com/), a talented young researcher with a passion for graphical illustration, and asked her if she wanted to join the team.
