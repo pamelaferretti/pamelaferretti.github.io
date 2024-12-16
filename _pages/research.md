@@ -6,9 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-# **Microbiome transmission in humans**
-
-### **Mother-to-infant transmission**
+# **Microbiome transmission in mothers and infants**
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
@@ -30,12 +28,12 @@ Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes se
 _**Relevance of the study:**_ _Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._ 
 
 <br/><br/>
-### **Vertical and horizontal transmission in social groups**
+# **Microbiome transmission in social groups**
 
-Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microbes are vertically and horizontally transmitted over life time in multiple large **groups of wild baboons, at the Amboseli National Park in Kenya**. Stay tuned for more updates! 
+Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microbes are vertically and horizontally transmitted over life time in wild animal groups! Stay tuned for more updates! 
 
 <br/><br/>
-# **How to define and identify strains in microbiome research**
+# **Defining, identifying and interpreting microbial strains**
 
 <img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
