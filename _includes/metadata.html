@@ -101,7 +101,7 @@
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.bluesky_username -%}
-        {%- capture link -%}https://web.syu.is/{{ site.bluesky_username }}{%- endcapture -%}
+        {%- capture link -%}https://bsky.app/{{ site.bluesky_username }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
     {%- if site.linkedin_username -%}
