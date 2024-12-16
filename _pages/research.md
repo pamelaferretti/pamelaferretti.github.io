@@ -64,4 +64,4 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. In this work, which represents an extension of my PhD work, I heavily contributed to the curation of ~100k metagenomic samples from 739 public studies. Species-level taxonomic classification, metagenome-assembled genomes (MAGs) and harmonized metadata can be browsed and downloaded in the dedicated [website](https://spire.embl.de/). 
 
-[Schmidt and Fullam, Ferretti et al. 2023 - NAR](https://academic.oup.com/nar/article/52/D1/D777/7332059)
+[Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
