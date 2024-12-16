@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-# **Microbiome transmission in mothers and infants**
+## **Microbiome transmission in mothers and infants**
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
@@ -28,12 +28,12 @@ Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes se
 _**Relevance of the study:**_ _Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._ 
 
 <br/><br/>
-# **Microbiome transmission in social groups**
+## **Microbiome transmission in social groups**
 
 Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microbes are vertically and horizontally transmitted over life time in wild animal groups! Stay tuned for more updates! 
 
 <br/><br/>
-# **Defining, identifying and interpreting microbial strains**
+## **Defining, identifying and interpreting microbial strains**
 
 <img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
 
@@ -44,7 +44,7 @@ Most studies look at species-level composition, but often the presence (or absen
 _**Relevance of the study:**_ _Our ability to reproduce results and compare them among studies depends on common terminology (e.g. what is a strain?) and agreement on gold standards (e.g. when are MAGs good enough to be used in strain-level analyses?). Knowing the importance of strain-level analysis, its challenges, and the limitations of the available tools guides the researchers towards better study design, analysis and costs allocation._
 
 <br/><br/>
-# **Global meta-analyses on large-scale metagenomic data**
+## **Global meta-analyses on large-scale metagenomic data**
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
@@ -58,5 +58,10 @@ I then included in my meta-analysis healthy subjects of all ages, animal hosts a
 
 _**Relevance of the study:**_ _Disentangling the real burden of C. difficile from other pathogenic species inducing the same symptomatology will help directing future research focus and fundings towards better diagnostic systems and diagnosis. In addition, understanding how C. difficile carriage remains asymptomatic will help understanding the mechnanisms behind CDI manifestation and progression._
 
+### **SPIRE: a Searchable, Planetary-scale mIcrobiome REsource**
 
+<img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3b.jpg">
 
+Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. In this work, which represents an extension of my PhD work, I heavily contributed to the curation of ~100k metagenomic samples from 739 public studies. Species-level taxonomic classification, metagenome-assembled genomes (MAGs) and harmonized metadata can be browsed and downloaded in the dedicated [website](https://spire.embl.de/). 
+
+[Schmidt and Fullam, Ferretti et al. 2023 - NAR](https://academic.oup.com/nar/article/52/D1/D777/7332059)
