@@ -16,7 +16,7 @@ At birth, the infant gut represents a "blank sheet", which the microbes readily 
 
 Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. **I found several microbial strains shared between the mother's breast milk and the infant gut, including commensal and pathobiont taxa**.   
 
-_**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current improving current best practices._ 
+_**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current best practices._ 
 
 <br/><br/>
 <img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
