@@ -10,7 +10,7 @@ email: TODO
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Something you have to tell them about you?.
 footer_text: >
-  I would like to thank <a href="https://bauer-research.net" target="_blank">Dr. André Bauer<a/> for sharing the fancy layout used in this website.  
+  I would like to thank <a href="https://bauer-research.net" target="_blank">Dr. André Bauer<a/> for sharing the website layout.  
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: # add your own keywords or leave empty
