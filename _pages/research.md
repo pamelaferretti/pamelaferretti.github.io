@@ -30,7 +30,7 @@ _**Relevance of the study:**_ _Understanding the routes of microbial transmissio
 <br/><br/>
 ## **Microbiome transmission in social groups**
 
-Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microbes are vertically and horizontally transmitted over life time in wild animal groups! Stay tuned for more updates! 
+Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microorganisms (bacteria and eukaryotes) are transmitted in wild animal groups. I recently co-authored a study that looked at [eukaryotes sharing in wild baboons in Kenya](). Stay tuned for more updates! 
 
 <br/><br/>
 ## **Defining, identifying and interpreting microbial strains**
