@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 showbib: false
 ---
 
-I'm a postdoctoral scholar in the Laboratory of [Prof. Ran Blekhman](http://blekhmanlab.org/) at the University of Chicago, where I study **microbial transmission in human populations** through metagenomic and genomic approaches. I am interested in studying how commensal as well as pathogenic bacteria spread and persist in individuals that are in close social contact. In particular, my current projects are focused on:
+I'm a postdoctoral scholar in the Laboratory of [Prof. Ran Blekhman](http://blekhmanlab.org/) at the University of Chicago, where **I study microbial transmission through metagenomic and genomic approaches**. I am interested in studying how commensal as well as pathogenic bacteria spread and persist in individuals that are in close social contact. In particular, my current projects are focused on:
 
 - Investigating **strain transmission between maternal breast milk and her infant's gut microbiome**. The maternal milk often represents the sole source of nutrition for the baby for the first months of life, and yet very little is known about its microbial composition at the species and strain level. This study aims at studying the maternal milk microbiome in relation to the infant’s gut microbiome, and to better represent maternal milk in public repositoriese. This project is in collaboration with [Prof. Cheryl Gale](https://med.umn.edu/bio/cheryl-gale) and [Prof. Ellen Demerath](https://directory.sph.umn.edu/bio/sph-a-z/ellen-demerath).
 
