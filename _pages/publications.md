@@ -7,7 +7,7 @@ nav: true
 showbib: true
 nav_order: 2
 ---
-All publications are listed in reversed chronological order.
+All publications are listed in reverse chronological order.
 
 <!-- _pages/publications.md -->
 <div class="publications">
