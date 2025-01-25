@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /artistic/
-title: Journal Covers and Outreach
+title: Journal Covers
 nav: true
 nav_order: 6
-display_categories: [Covers, Outreach, Logos]
+display_categories: [Covers, Logos]
 horizontal: false
 ---
 
