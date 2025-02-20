@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell
-description: compendium of 168,000 amplicon samples
+description: Compendium of 168,000 amplicon samples
 img: assets/img/4_cover.jpg
 importance: 3
 category: Covers
