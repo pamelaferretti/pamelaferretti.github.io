@@ -14,7 +14,7 @@ The paper [Integration of 168,000 samples reveals global patterns of the human g
     </div>
 </div>
 <div class="caption">
-    cover February 2025
+    Cover February 2025
 </div>
 
 The cover portrays a huge shelving unit shaped like a map, representing our knowledge of the world's gut microbiota. The floor is littered with microbes of varying colors and shapes, indicating the broad variation observed between regions and the volume of data already available for evaluation. Original idea and illustration: XX.
