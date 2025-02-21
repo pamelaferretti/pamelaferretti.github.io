@@ -3,7 +3,7 @@ layout: page
 title: Bork Lab 
 description: Bork lab logo design
 img: assets/img/18.jpg
-importance: 6
+importance: 5
 category: Logos
 ---
 
