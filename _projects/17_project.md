@@ -3,7 +3,7 @@ layout: page
 title: Blekhman Lab 
 description: Blekhman lab logo design
 img: assets/img/17.jpg
-importance: 5
+importance: 6
 category: Logos
 ---
 
