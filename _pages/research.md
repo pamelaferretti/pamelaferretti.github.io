@@ -30,12 +30,16 @@ _**Relevance of the study:**_ _Understanding the routes of microbial transmissio
 <br/><br/>
 ## **Microbiome transmission in social groups**
 
-Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how microorganisms (bacteria and eukaryotes) are transmitted in wild animal groups. I recently co-authored a study that looked at [eukaryotes sharing in wild baboons in Kenya](). Stay tuned for more updates! 
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
+
+[Chege, Ferretti et al. 2025 - Animal Microbiome](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6)
+
+Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how bacteria and eukaryotes are transmitted in wild animal groups. I recently co-authored a study that identified social group membership as important factor in shaping the [eukaryotes diversity and composition in the gut microbiome of wild baboons](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6). Ongoing projects are currently investigating microbial strain sharing and antimicrobial resistance gene transmission within a unique dataset of wild baboons, representing the largest metagenomic survey of a wild animal population to date. Stay tuned for updates!
 
 <br/><br/>
 ## **Defining, identifying and interpreting microbial strains**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
+<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7b.jpg"> 
 
 [Van Rossum, Ferretti and Maistrenko 2020 - Nature Reviews Microbiology](https://www.nature.com/articles/s41579-020-0368-1)
 
