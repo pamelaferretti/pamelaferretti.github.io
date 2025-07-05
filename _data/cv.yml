@@ -62,17 +62,23 @@
 - title: Media & Interviews
   type: time_table
   contents:
-    - title: Cell - Research featured on journal cover
+    - title: Research featured on journal cover
+      institution: Cell
       year: 2025
-    - title: Spotlight Article, University of Chicago
+    - title: Spotlight Article
+      institution: University of Chicago
       year: 2024
     - title: Book Interview
       year: 2023
-    - title: Book Interview (ISBN 9788879756983)
+    - title: Book Interview
+      institution: ISBN 9788879756983
       year: 2020
-    - title: Nature Reviews Microbiology - Research featured on journal cover 
+    - title: Research featured on journal cover 
+      institution: Nature Reviews Microbiology
       year: 2020
-    - title: Cell Host & Microbe - Research featured on journal cover 
+    - title: Research featured on journal cover 
+      institution: Cell Host & Microbe
       year: 2018
     - title: Regional News Coverage 
+      institution: Buongiorno Regione Trentino news
       year: 2018
