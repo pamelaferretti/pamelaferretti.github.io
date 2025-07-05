@@ -47,12 +47,32 @@
   type: time_table
   contents:
     - title: Invited Reviewer for 20+ manuscripts
-      institution: Nature (co-review), mSystems, ISME, PLOS Computational Biology, Nature Communications, FEMS Microbiology Ecology, PeerJ, Current Opinion in Microbiology and Scientific Reports
+      institution: Nature (co-review), mSystems, ISME, PLOS Computational Biology, FEMS Microbiology Ecology, Nature Communications, PeerJ, Current Opinion in Microbiology, and Scientific Reports.
       year: since 2021
-    - title: Conference Organisation Committee
+    - title: Conference Organisation Committee & Chairing
       institution: Microbiome Virtual International Forum (MVIF)
       year: since 02/2023
+    - title: Conference Organisation Committee & Chairing
+      institution: The Microbiome Center Symposium, University of Chicago
+      year: 2025
     - title: Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
-      
+
+- title: Media & Interviews
+  type: time_table
+  contents:
+    - title: Cell - Research featured on journal cover
+      year: 2025
+    - title: Spotlight Article, University of Chicago
+      year: 2024
+    - title: Book Interview
+      year: 2023
+    - title: Book Interview (ISBN 9788879756983)
+      year: 2020
+    - title: Nature Reviews Microbiology - Research featured on journal cover 
+      year: 2020
+    - title: Cell Host & Microbe - Research featured on journal cover 
+      year: 2018
+    - title: Regional News Coverage 
+      year: 2018
