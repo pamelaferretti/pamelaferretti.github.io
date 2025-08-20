@@ -76,7 +76,7 @@ _**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from
 
 ### **METALOG: Curated and harmonised metadata for metagenomic data**
 
-<img align="left" width="360" height="350" style="float:left; padding-right:15px" src="/assets/img/METALOG_logo.jpg">
+<img align="left" width="360" height="250" style="float:left; padding-right:15px" src="/assets/img/METALOG_logo.jpg">
 
 [Kuhn et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.14.670324v1)
 
