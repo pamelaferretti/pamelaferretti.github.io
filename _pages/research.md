@@ -10,7 +10,7 @@ nav_order: 1
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
-<img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/14.png"> 
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/14.jpg">
 
 [Ferretti and Allert et al. 2024 - BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1)
 
@@ -19,7 +19,7 @@ Ideally, the maternal breastmilk represents the sole source of nutrition for the
 _**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current best practices._ 
 
 <br/><br/>
-<img align="left" width="365" height="350" style="float:left; padding-right:15px" src="/assets/img/4.jpg"> 
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/4.jpg"> 
 
 [Ferretti et al. 2018 - Cell Host & Microbe](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
 
@@ -30,7 +30,7 @@ _**Relevance of the study:**_ _Understanding the routes of microbial transmissio
 <br/><br/>
 ## **Microbiome transmission in social groups**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7.jpg"> 
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/7.jpg">
 
 [Chege, Ferretti et al. 2025 - Animal Microbiome](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6)
 
@@ -39,7 +39,7 @@ Studying microbial transmission dynamics with enough high spatial and temporal r
 <br/><br/>
 ## **Defining, identifying and interpreting microbial strains**
 
-<img align="left" width="500" height="350" style="float:left; padding-right:15px" src="/assets/img/7b.jpg"> 
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/7b.jpg">
 
 [Van Rossum, Ferretti and Maistrenko 2020 - Nature Reviews Microbiology](https://www.nature.com/articles/s41579-020-0368-1)
 
@@ -52,7 +52,7 @@ _**Relevance of the study:**_ _Our ability to reproduce results and compare them
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
-<img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3.jpg">
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/3.jpg">
 
 [Ferretti et al. 2023 - eLife](https://elifesciences.org/reviewed-preprints/90111)
 
