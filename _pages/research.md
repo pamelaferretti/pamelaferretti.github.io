@@ -64,7 +64,7 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 ### **SPIRE: a Searchable, Planetary-scale mIcrobiome REsource**
 
-<img align="left" width="360" height="350" style="float:left; padding-right:15px" src="/assets/img/SPIRE_logo.jpg">
+<img align="left" width="360" height="250" style="float:left; padding-right:15px" src="/assets/img/SPIRE_logo.jpg">
 
 [Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
 
