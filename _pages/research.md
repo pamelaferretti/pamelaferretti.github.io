@@ -68,12 +68,10 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 [Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
 
-Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. 
+Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. SPIRE provides ~16Tbp of metagenomic assemblies (contigs), 35+ billion genes predicted from those contigs, and over 1 million metagenome-assembled genomes (MAGs) of medium or high quality, obtained from ~100k metagenomic samples from >700 published studies. In this work, I heavily contributed to the datasets processing and metadata curation. The data can be accessed and downloaded at [https://spire.embl.de/](https://spire.embl.de/). 
 
-In this work, which represents an extension of my PhD work, I heavily contributed to the curation of ~100k metagenomic samples from 739 public studies. Species-level taxonomic classification, metagenome-assembled genomes (MAGs) and harmonized metadata can be browsed and downloaded in [https://spire.embl.de/](https://spire.embl.de/). 
+_**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from metagenomic data remains a time-consuming and computationally very intensive task. For these reasons, t is often prohibitive for most labs to generate and process MAGs for large datasets. SPIRE addresses that barrier by providing pre-computed MAGs, greatly accelerating meta-analyses and enabling more accessible, genome-resolved microbiome research._ 
 
-
-<br/><br/>
 <br/><br/>
 
 ### **METALOG: Curated and harmonised metadata for metagenomic data**
@@ -81,4 +79,6 @@ In this work, which represents an extension of my PhD work, I heavily contribute
 [Kuhn et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.14.670324v1)
 
 As part of my research, I contributed to the development of a manually curated, global repository of metadata for metagenomic samples. With the growing scale of metagenomic datasets and meta-analyses, access to harmonized and standardized metadata remains a limiting factor. This resource addresses that need, providing curated metadata for over 110k metagenomic samples (~73k human samples, ~10k animal samples, ~5k ocean water samples, and 21k from other environments). In addition to metadata, Metalog offers pre-computed [mOTUs3.0](https://github.com/motu-tool/mOTUs) and [MetaPhlAn4.0](https://huttenhower.sph.harvard.edu/metaphlan/) taxonomic profiles for rapid data exploration and integrates with the SPIRE database for genome-based analyses. More details in [https://metalog.embl.de/](https://metalog.embl.de/). 
+
+_**Relevance of the study:**_ _Metadata for metagenomic studies are often scattered across multiple sources (e.g. publication text, supplementary tables, figures, public repositories), incomplete or erronoeous. METALOG addresses this issue by providing detailed, manually curated, and harmonized metadata for over 100,000 samples collected worldwide. When used in combination, METALOG and SPIRE offer a powerful framework that enables researchers to conduct robust microbiome studies and large-scale meta-analyses in a highly time- and resource-efficient manner._ 
 
