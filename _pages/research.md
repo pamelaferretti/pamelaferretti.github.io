@@ -48,7 +48,7 @@ Most studies look at species-level composition, but often the presence (or absen
 _**Relevance of the study:**_ _Our ability to reproduce results and compare them among studies depends on common terminology (e.g. what is a strain?) and agreement on gold standards (e.g. when are MAGs good enough to be used in strain-level analyses?). Knowing the importance of strain-level analysis, its challenges, and the limitations of the available tools guides the researchers towards better study design, analysis and costs allocation._
 
 <br/><br/>
-## **Global meta-analyses on large-scale metagenomic data**
+## **Global meta-analyses and databases on large-scale metagenomic data**
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
@@ -66,6 +66,12 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 <img align="left" width="400" height="350" style="float:left; padding-right:15px" src="/assets/img/3b.jpg">
 
-Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. In this work, which represents an extension of my PhD work, I heavily contributed to the curation of ~100k metagenomic samples from 739 public studies. Species-level taxonomic classification, metagenome-assembled genomes (MAGs) and harmonized metadata can be browsed and downloaded in the dedicated [website](https://spire.embl.de/). 
+Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. In this work, which represents an extension of my PhD work, I heavily contributed to the curation of ~100k metagenomic samples from 739 public studies. Species-level taxonomic classification, metagenome-assembled genomes (MAGs) and harmonized metadata can be browsed and downloaded in [https://spire.embl.de/](https://spire.embl.de/). 
 
 [Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
+
+### **METALOG: Curated and harmonised metadata for metagenomic data**
+
+As part of my research, I contributed to the development of a manually curated, global repository of metadata for metagenomic samples. With the growing scale of metagenomic datasets and meta-analyses, access to harmonized and standardized metadata remains a limiting factor. This resource addresses that need, providing curated metadata for over 110k metagenomic samples (~73k human samples, ~10k animal samples, ~5k ocean water samples, and 21k from other environments). In addition to metadata, Metalog offers pre-computed [mOTUs3.0](https://github.com/motu-tool/mOTUs) and [MetaPhlAn4.0](https://huttenhower.sph.harvard.edu/metaphlan/) taxonomic profiles for rapid data exploration and integrates with the SPIRE database for genome-based analyses. More details in [https://metalog.embl.de/](https://metalog.embl.de/). 
+
+[Kuhn et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.14.670324v1)
