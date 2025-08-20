@@ -64,7 +64,7 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 ### **SPIRE: a Searchable, Planetary-scale mIcrobiome REsource**
 
-<img align="left" width="360" height="350" style="float:left; padding-right:15px" src="/assets/img/3b.jpg">
+<img align="left" width="360" height="350" style="float:left; padding-right:15px" src="/assets/img/spire.jpg">
 
 [Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
 
@@ -75,6 +75,8 @@ _**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from
 <br/><br/>
 
 ### **METALOG: Curated and harmonised metadata for metagenomic data**
+
+<img align="left" width="360" height="350" style="float:left; padding-right:15px" src="/assets/img/metalog.jpg">
 
 [Kuhn et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.14.670324v1)
 
