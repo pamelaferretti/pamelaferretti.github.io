@@ -13,9 +13,9 @@ At birth, the infant gut represents a "blank sheet", which the microbes readily 
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/14.png">
 
-[Ferretti and Allert et al. 2024 - BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v1)
+[Ferretti and Allert et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v2)
 
-Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. **I identified several instances of strain sharing between between the mother's breast milk and the infant gut, ranging from commensal to pathobiont taxa**.   
+Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. **I identified several instances of strain sharing between between the mother's breast milk and the infant gut, ranging from commensal to pathobiont taxa**. The study has been accepted in Nature Communications. Stay tuned for more updates!   
 
 _**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current best practices._ 
 
