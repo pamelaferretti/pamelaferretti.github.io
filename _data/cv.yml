@@ -3,26 +3,26 @@
   contents:
     - title: Postdoctoral Scholar (Prof. Ran Blekhman)
       institution: University of Chicago, United States
-      year: since 2023
+      year: since 02/2023
     - title: Bridging Postdoctoral Scholar (Prof. Peer Bork) 
       institution: EMBL, Heidelberg, Germany
-      year: 2022 - 2022
+      year: 01/2022 - 06/2022
     - title: Research Assistant (Prof. Nicola Segata)
       institution: University of Trento, Italy
-      year: 2016 - 2017
+      year: 08/2016 - 08/2017
 
 - title: Academic Education
   type: time_table
   contents:
     - title: Dr. rer. nat. (Computational Biology) - Prof. Peer Bork
       institution: EMBL, Heidelberg, Germany
-      year: 2017 - 2022
+      year: 09/2017 - 12/2021
     - title: Master of Science (Cellular and Molecular Biotechnology) - Prof. Nicola Segata
       institution: University of Trento, Italy
-      year: 2014 - 2016 
+      year: 09/2014 - 06/2016 
     - title: Bachelor of Science (Computer Science) - Prof. Nicola Segata
       institution: University of Trento, Italy
-      year: 2011 - 2014 
+      year: 09/2011 - 06/2014 
 
 - title: Awards
   type: time_table
@@ -47,14 +47,20 @@
   type: time_table
   contents:
     - title: Invited Reviewer for 20+ manuscripts
-      institution: Nature (co-review), mSystems, ISME, PLOS Computational Biology, FEMS Microbiology Ecology, Nature Communications, PeerJ, Current Opinion in Microbiology, and Scientific Reports.
+      institution: Nature (co-review), Nature Communications, Nature Biofilms and Microbiomes, mSystems, ISME Journal, PLOS Computational Biology, FEMS Microbiology Ecology, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
       year: since 2021
     - title: Conference Organisation Committee & Chairing
       institution: Microbiome Virtual International Forum (MVIF)
       year: since 02/2023
     - title: Conference Organisation Committee & Chairing
       institution: The Microbiome Center Symposium, University of Chicago
-      year: 2025
+      year: 05/2025
+    - title: Member
+      institution: International Society for Microbial Ecology (ISME)
+      year: since 08/2025
+    - title: Member
+      institution: The Wildlife Society (TWS) - Wildlife Diseases and Molecular Ecology Working Groups  
+      year: since 06/2024
     - title: Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
@@ -68,7 +74,7 @@
     - title: Spotlight Article
       institution: University of Chicago
       year: 2024
-    - title: Book Interview
+    - title: Book Interview - (book in preparation)
       year: 2023
     - title: Book Interview
       institution: ISBN 9788879756983
@@ -82,3 +88,16 @@
     - title: Regional News Coverage 
       institution: Buongiorno Regione Trentino news
       year: 2018
+
+- title: Public Outreach
+  type: time_table
+  contents:
+    - title: Penne Amiche della Scienza
+      institution: Science correspondence program for students - virtual
+      year: since 10/2025
+    - title: South Science Festival, Science Slam Finalist
+      institution: University of Chicago, USA
+      year: 10/2024
+    - title: Scienza in Gioco
+      institution: Outreach seminar series for high schools in Rome, Italy - virtual
+      year: since 04/2024
