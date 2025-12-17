@@ -112,22 +112,17 @@ layout: default
                         <li><a class="bio" href="{{ page.profile.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
                     {% endif %}
                     {% if page.profile.bluesky %}
-                        <li><a class="bio" href="{{ page.profile.bluesky }}">
-                              <span class="bluesky-icon" aria-hidden="true">
-                                <svg
-                                  xmlns="http://www.w3.org/2000/svg"
-                                  viewBox="0 0 512 512"
-                                  width="1em"
-                                  height="1em"
-                                  fill="currentColor"
-                                  style="vertical-align: -0.125em;"
-                                >
-                                  <path d="M256 32c-55.3 0-106.3 29.7-140.5 62.4C82.3 67.7 32 55.6 32 96.2c0 82.1 94.7 157.6 164.6 195.6L256 480l59.4-188.2C385.3 253.8 480 178.3 480 96.2c0-40.6-50.3-28.5-83.5-1.8C362.3 61.7 311.3 32 256 32z"/>
-                                </svg>
-                              </span>
+                          <li>
+                            <a class="bio" href="{{ page.profile.bluesky }}">
+                              <img
+                                src="{{ '/assets/img/icons/bluesky.svg' | relative_url }}"
+                                alt="Bluesky"
+                                class="social-svg-icon"
+                                aria-hidden="true"
+                              />
                               Bluesky
                             </a>
-                       </li>
+                          </li>
                     {% endif %}
                     {% if page.profile.pubmed %}
                         <li><a class="bio" href="{{ page.profile.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
