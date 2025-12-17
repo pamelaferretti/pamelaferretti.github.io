@@ -22,4 +22,5 @@ $max-content-width: {{ site.max_width }};
   vertical-align: -0.125em;
   object-fit: contain;
   aspect-ratio: 1 / 1;
+  display: inline-block;
 }
