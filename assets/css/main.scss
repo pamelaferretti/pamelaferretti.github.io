@@ -21,4 +21,5 @@ $max-content-width: {{ site.max_width }};
   margin-right: 0.4em;
   vertical-align: middle;
   object-fit: contain;
+  aspect-ratio: 1 / 1;
 }
