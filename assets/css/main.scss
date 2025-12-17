@@ -13,3 +13,11 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+/* Bluesky icon (WebP) */
+.social-webp-icon {
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: -0.125em;
+}
