@@ -10,7 +10,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   location: University of Chicago, US
-  email: pamela.ferretti@uchicago.edu
+  email: pamela [dot] ferretti [at] uchicago [dot] edu
   googlescholar: https://scholar.google.com/citations?user=qty8iCEAAAAJ&hl=en
   orcid: https://orcid.org/0000-0002-1707-9013
   bluesky: https://bsky.app/profile/pamferretti.bsky.social
