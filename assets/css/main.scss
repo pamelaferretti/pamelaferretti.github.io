@@ -20,4 +20,5 @@ $max-content-width: {{ site.max_width }};
   height: 16px;
   margin-right: 0.4em;
   vertical-align: middle;
+  object-fit: contain;
 }
