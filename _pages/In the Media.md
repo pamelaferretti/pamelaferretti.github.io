@@ -34,7 +34,7 @@ Study: [Ferretti et al., Cell Host & Microbe, 2018](https://www.cell.com/cell-ho
 [![cibio unitn press release](https://pamelaferretti.github.io/assets/img/cibio_2018.jpg)](https://pressroom.unitn.it/comunicato-stampa/power-mommys-bacteria)<br><br>
 
 ### Gut Microbiome for Health:<br>
-[![gut microbiome for health](https://pamelaferretti.github.io/assets/img/gut_health_2018.jpg)](https://www.gutmicrobiotaforhealth.com/two-studies-characterize-the-transmission-of-the-microbiome-from-mother-to-infant-during-the-first-months-of-life/)<br><br>
+[![gut microbiome for health](https://pamelaferretti.github.io/assets/img/gut_health_2018.jpg)](https://www.gutmicrobiotaforhealth.com/two-studies-characterize-the-transmission-of-the-microbiome-from-mother-to-infant-during-the-first-months-of-life/)<br><br><br><br>
 
 # Media coverage for other studies I contributed to:<br>
 
