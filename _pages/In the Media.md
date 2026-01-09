@@ -20,9 +20,23 @@ Study: [Ferretti and Allert et al., Nature Communications, 2025](https://www.nat
 
 [![News Medical Life Sciences](https://pamelaferretti.github.io/assets/img/newsmedical.jpg)](https://www.news-medical.net/news/20260107/Breast-milk-bacteria-help-shape-infant-gut-microbiome-development.aspx)
 
+[![Mirage News](https://pamelaferretti.github.io/assets/img/mirage.jpg)](https://www.miragenews.com/breast-milk-microbes-boost-infant-gut-1598730/)
 
 ## Infant Microbiome
 
 Study: [Ferretti et al., Cell Host & Microbe, 2018](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(18)30317-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312818303172%3Fshowall%3Dtrue)
 
 [![cibio unitn press release](https://pamelaferretti.github.io/assets/img/cibio_2018.jpg)](https://pressroom.unitn.it/comunicato-stampa/power-mommys-bacteria)
+
+## Media coverage for studies I contributed to:
+
+Study: [Abdill and Graham et al., Cell, 2025](https://www.cell.com/cell/fulltext/S0092-8674(24)01430-2)
+
+[![UC press release](https://pamelaferretti.github.io/assets/img/cell_UC.jpg)](https://biologicalsciences.uchicago.edu/news/gut-microbiome-data-underscores-gaps-global-representation)
+
+Study: [Nishijima et al., Cell, 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01204-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424012042%3Fshowall%3Dtrue)
+
+[![The Microbiologist](https://pamelaferretti.github.io/assets/img/suguru_micro.jpg)](https://www.the-microbiologist.com/news/microbial-load-can-influence-disease-associations-new-model-reveals/4543.article)
+
+
+
