@@ -11,7 +11,7 @@ This section features media coverage and press releases related to my work.
 ## Breast Milk Microbiome
 
 - [Nature Communications study](https://www.nature.com/articles/s41467-025-66497-y)
-- [Official UChicago Press release](https://www.examplepresslink.com)
+- [![Official UChicago Press release](https://pamelaferretti.github.io/assets/img/milk_UC.jpg)]
 
 Additional media coverage at:
 [AAAS](https://www.eurekalert.org/news-releases/browse/all/2?view=summaries&date=01/08/2026)
