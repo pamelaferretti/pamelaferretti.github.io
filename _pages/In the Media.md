@@ -14,6 +14,8 @@ Study: [Ferretti and Allert et al., Nature Communications, 2025](https://www.nat
 
 [![Earth.com](https://pamelaferretti.github.io/assets/img/milk_earth.jpg)](https://www.earth.com/news/breast-milk-doesnt-just-nourish-babies-it-shapes-their-gut-health/)
 
+[![Science Blog](https://pamelaferretti.github.io/assets/img/science_blog.jpg)](https://scienceblog.com/breast-milk-delivers-a-living-starter-kit-for-the-infant-gut/)
+
 [![News Medical Life Sciences](https://pamelaferretti.github.io/assets/img/newsmedical.jpg)](https://www.news-medical.net/news/20260107/Breast-milk-bacteria-help-shape-infant-gut-microbiome-development.aspx)
 
 [![Mirage News](https://pamelaferretti.github.io/assets/img/mirage.jpg)](https://www.miragenews.com/breast-milk-microbes-boost-infant-gut-1598730/)
