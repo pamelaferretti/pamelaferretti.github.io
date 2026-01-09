@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Text.
+This section features media coverage and press releases related to my work.
 
 
 
