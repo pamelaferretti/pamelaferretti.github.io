@@ -1,5 +1,5 @@
 ---
-layout: In the Media
+layout: page
 permalink: /In the Media/
 title: In the Media
 nav: true
