@@ -11,18 +11,18 @@ nav_order: 1
 
 At birth, the infant gut represents a "blank sheet", which the microbes readily colonize. But where are the colonizing microbes coming from? To address this question, I started to investigate the most intimate relationship that the infant has: the one with the mother.
 
-<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/14.png">
+<img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/14bis.png">
 
-[Ferretti and Allert et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v2)
+[Ferretti and Allert et al. 2025 - *Nature Communications*](https://www.biorxiv.org/content/10.1101/2024.01.28.577594v2)
 
-Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. **I identified several instances of strain sharing between between the mother's breast milk and the infant gut, ranging from commensal to pathobiont taxa**. The study has been accepted in Nature Communications. Stay tuned for more updates!   
+Ideally, the maternal breastmilk represents the sole source of nutrition for the infant in the first semester of life. Yet, milk represents less than 0.6% of all metagenomic samples publicly available. Little is known about the strain-level milk microbiome composition and stability, and its relevance for the infant's health. In this recent study, I investigated the species- and strain-level composition of the breastmilk, its functional potential, and antimicrobial resistance in relation to the infant's gut microbiome. **I found that the breast milk microbiome directly contributes to the assembly of the infant gut microbiome, providing both commensal species (like Bifidobacteria) and pathobionts**. You can find more info on the results of this study in the official press release [here](https://biologicalsciences.uchicago.edu/news/microbes-breast-milk-populate-infant-gut-microbiomes).   
 
 _**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current best practices._ 
 
 <br/><br/>
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/4.jpg"> 
 
-[Ferretti et al. 2018 - Cell Host & Microbe](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
+[Ferretti et al. 2018 - *Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
 
 Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
 
@@ -32,7 +32,7 @@ _**Relevance of the study:**_ _Understanding the routes of microbial transmissio
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/7.jpg">
 
-[Chege, Ferretti et al. 2025 - Animal Microbiome](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6)
+[Chege, Ferretti et al. 2025 - *Animal Microbiome*](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6)
 
 Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how bacteria and eukaryotes are transmitted in wild animal groups. I recently co-authored a study that identified social group membership as important factor in shaping the [eukaryotes diversity and composition in the gut microbiome of wild baboons](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6). Ongoing projects are currently investigating microbial strain sharing and antimicrobial resistance gene transmission within a unique dataset of wild baboons, representing the largest metagenomic survey of a wild animal population to date. Stay tuned for updates!
 
@@ -40,7 +40,7 @@ Studying microbial transmission dynamics with enough high spatial and temporal r
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/7b.jpg">
 
-[Van Rossum, Ferretti and Maistrenko 2020 - Nature Reviews Microbiology](https://www.nature.com/articles/s41579-020-0368-1)
+[Van Rossum, Ferretti and Maistrenko 2020 - *Nature Reviews Microbiology*](https://www.nature.com/articles/s41579-020-0368-1)
 
 Most studies look at species-level composition, but often the presence (or absence) of a single gene, or a set of genes, can make the difference between health and disease. Hence, the importance of diving into the strain-level world. In this work, I explored (with Thea and Oleksandr) **the mechanisms that drive variability within bacterial species and the challenges in stratifying such variability, providing harmonized terminology and the associated scope of applicability.** This Review, which took >1 year to write and gave us all a fair amount of headaches, touches important aspects of microbial ecology that are widely applicable (from human microbiome, to animals, to marine microbial ecosystems).
 
