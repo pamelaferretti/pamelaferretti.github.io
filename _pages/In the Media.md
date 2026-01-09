@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 ---
 
-This section features media coverage and press releases related to my work.
+This section features media coverage and press releases related to my work.<br>
 
 Study: [Ferretti and Allert et al., Nature Communications, 2025](https://www.nature.com/articles/s41467-025-66497-y)<br>
 
@@ -36,7 +36,7 @@ Study: [Ferretti et al., Cell Host & Microbe, 2018](https://www.cell.com/cell-ho
 ### Gut Microbiome for Health:<br>
 [![gut microbiome for health](https://pamelaferretti.github.io/assets/img/gut_health_2018.jpg)](https://www.gutmicrobiotaforhealth.com/two-studies-characterize-the-transmission-of-the-microbiome-from-mother-to-infant-during-the-first-months-of-life/)<br>
 
-## Media coverage for other studies I contributed to:<br>
+# Media coverage for other studies I contributed to:<br>
 Study: [Abdill and Graham et al., Cell, 2025](https://www.cell.com/cell/fulltext/S0092-8674(24)01430-2)<br>
 
 ### University of Chicago News:<br>
