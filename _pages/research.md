@@ -54,7 +54,7 @@ _**Relevance of the study:**_ _Our ability to reproduce results and compare them
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/3.jpg">
 
-[Ferretti et al. 2023 - eLife](https://elifesciences.org/reviewed-preprints/90111)
+[Ferretti et al. 2023 - *eLife*](https://elifesciences.org/reviewed-preprints/90111)
 
 _C. difficile_ is one the most urgent threats in hospital-acquired infections. During my PhD, I leveraged public metagenomic data to investigate the composition and stability of the gut microbiome in presence of _C. difficile_. I found that patients diagnosed with  _C. difficile_ infection (CDI) had a suprisingly low carriage of _C. difficile_ (only 30%). In these patients, I instead found elevated carriage of other pathogens known to be able to induce CDI-like symptomatology, suggesting CDI over-diagnosis in the evaluated studies. 
 <br/><br/>
@@ -67,7 +67,7 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/SPIRE_logo.jpg">
 
-[Schmidt and Fullam, Ferretti et al. 2023 - Nucleic Acids Research](https://academic.oup.com/nar/article/52/D1/D777/7332059)
+[Schmidt and Fullam, Ferretti et al. 2023 - *Nucleic Acids Research*](https://academic.oup.com/nar/article/52/D1/D777/7332059)
 
 Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. SPIRE provides ~16Tbp of metagenomic assemblies (contigs), 35+ billion genes predicted from those contigs, and over 1 million metagenome-assembled genomes (MAGs) of medium or high quality, obtained from ~100k metagenomic samples from >700 published studies. In this work, I heavily contributed to the datasets processing and metadata curation. The data can be accessed and downloaded at [https://spire.embl.de/](https://spire.embl.de/). 
 
@@ -78,7 +78,7 @@ _**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from
 
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/METALOG_logo.jpg">
 
-[Kuhn et al. 2025 - BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.14.670324v1)
+[Kuhn et al. 2025 - *Nucleic Acids Research*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkaf1118/8307355)
 
 As part of my research, I contributed to the development of a manually curated, global repository of metadata for metagenomic samples. With the growing scale of metagenomic datasets and meta-analyses, access to harmonized and standardized metadata remains a limiting factor. This resource addresses that need, providing curated metadata for over 110k metagenomic samples (~73k human samples, ~10k animal samples, ~5k ocean water samples, and 21k from other environments). In addition to metadata, Metalog offers pre-computed [mOTUs3.0](https://github.com/motu-tool/mOTUs) and [MetaPhlAn4.0](https://huttenhower.sph.harvard.edu/metaphlan/) taxonomic profiles for rapid data exploration and integrates with the SPIRE database for genome-based analyses. More details in [https://metalog.embl.de/](https://metalog.embl.de/). 
 
