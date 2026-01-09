@@ -30,6 +30,9 @@ This section features media coverage and press releases related to my work.<br>
 ### News Wise:<br>
 [![NewsWise](https://pamelaferretti.github.io/assets/img/news_wise.jpg)](https://www.newswise.com/articles/microbes-in-breast-milk-help-populate-infant-gut-microbiomes)<br><br>
 
+### Infobae (in spanish):<br>
+[![Infobae](https://pamelaferretti.github.io/assets/img/infobae.jpg)](https://www.infobae.com/salud/2026/01/09/como-la-leche-materna-ayuda-a-la-estabilidad-del-microbioma-intestinal-infantil/)<br><br>
+
 ***
 
 **Study: [Ferretti et al., Cell Host & Microbe, 2018](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(18)30317-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1931312818303172%3Fshowall%3Dtrue)**<br>
