@@ -19,14 +19,14 @@ Ideally, the maternal breastmilk represents the sole source of nutrition for the
 
 _**Relevance of the study:**_ _High-resolution characterization of the milk microbiome is a crucial step towards understanding its role in the assembly, development and stability of the infant gut microbiome, with the ultimate goal of improving health outcomes and current best practices._ 
 
-<br/><br/>
+<br/>
 <img align="left" width="360" style="float:left; padding-right:15px;" src="/assets/img/4.jpg"> 
 
 [Ferretti et al. 2018 - *Cell Host & Microbe*](https://www.cell.com/cell-host-microbe/pdf/S1931-3128(18)30317-2.pdf)
 
 Here, I investigated how the maternal gut, skin, oral and vaginal microbiomes seed and shape the infant microbiome in the first semester of life. **This study represented the first extensive charcaterization of mother-infant strain sharing across multiple body sites.** For this project I collected 2,000+ samples over the course of 3 years, and I worked in close contact with the neonatologists and OB/GYNs at the Santa Chiara Hospital in Trento. This project sparked my interest in microbiome research, and I enjoyed every bit of it.
 
-_**Relevance of the study:**_ _Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._ 
+_**Relevance of the study:**_ _Understanding the routes of microbial transmission from the mother to her baby helps defining better healthcare policies, and strenghtens the importance of practices part of the [Baby Friendly Hospital Initiative](https://www.unicef.org/media/95191/file/Baby-friendly-hospital-initiative-implementation-guidance-2018.pdf), such as skin-to-skin contact and rooming-in._<br/><br/>
 
 ## **Microbiome transmission in social groups**
 
@@ -34,7 +34,7 @@ _**Relevance of the study:**_ _Understanding the routes of microbial transmissio
 
 [Chege, Ferretti et al. 2025 - *Animal Microbiome*](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6)
 
-Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how bacteria and eukaryotes are transmitted in wild animal groups. I recently co-authored a study that identified social group membership as important factor in shaping the [eukaryotes diversity and composition in the gut microbiome of wild baboons](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6). Ongoing projects are currently investigating microbial strain sharing and antimicrobial resistance gene transmission within a unique dataset of wild baboons, representing the largest metagenomic survey of a wild animal population to date. Stay tuned for updates!
+Studying microbial transmission dynamics with enough high spatial and temporal resolution remains extremely challenging in human populations. For this reason, we are studying how bacteria and eukaryotes are transmitted in wild animal groups. I recently co-authored a study that identified social group membership as important factor in shaping the [eukaryotes diversity and composition in the gut microbiome of wild baboons](https://animalmicrobiome.biomedcentral.com/articles/10.1186/s42523-025-00436-6). Ongoing projects are currently investigating microbial strain sharing and antimicrobial resistance gene transmission within a unique dataset of wild baboons, representing the largest metagenomic survey of a wild animal population to date. Stay tuned for updates!<br/><br/>
 
 ## **Defining, identifying and interpreting microbial strains**
 
@@ -47,8 +47,7 @@ Most studies look at species-level composition, but often the presence (or absen
 _**Relevance of the study:**_ _Our ability to reproduce results and compare them among studies depends on common terminology (e.g. what is a strain?) and agreement on gold standards (e.g. when are MAGs good enough to be used in strain-level analyses?). Knowing the importance of strain-level analysis, its challenges, and the limitations of the available tools guides the researchers towards better study design, analysis and costs allocation._
 
 <br/><br/>
-## **Resource Development and Meta-Analyses on Large-Scale Metagenomic data**
-
+## **Resource Development and Meta-Analyses on Large-Scale Metagenomic data**<br/>
 
 ### **The biogeography of _C. difficile_: from CDI to healthy infants**
 
@@ -60,8 +59,7 @@ _C. difficile_ is one the most urgent threats in hospital-acquired infections. D
 <br/><br/>
 I then included in my meta-analysis healthy subjects of all ages, animal hosts and environmental samples. I assembled a collection of 42,900 metagenomic samples, curated their associated metadata (yes was a lot of work!), and then leveraged this dataset to investigate the global biogeography and genetic variability of _C. difficile_. I found that _C. difficile_ is most prevalent (up to 76%) and abundant in healthy infants, and that _C. difficile_ in infants is associated with multiple indicators of a healthy infant gut microbiome development. **This study represents the largest single-species metagenomic survey to date, providing systematic, world-wide analysis of _C. difficile_ carriage and associated microbiome composition.**
 
-_**Relevance of the study:**_ _Disentangling the real burden of C. difficile from other pathogenic species inducing the same symptomatology will help directing future research focus and fundings towards better diagnostic systems and diagnosis. In addition, understanding how C. difficile carriage remains asymptomatic will help understanding the mechnanisms behind CDI manifestation and progression._
-
+_**Relevance of the study:**_ _Disentangling the real burden of C. difficile from other pathogenic species inducing the same symptomatology will help directing future research focus and fundings towards better diagnostic systems and diagnosis. In addition, understanding how C. difficile carriage remains asymptomatic will help understanding the mechnanisms behind CDI manifestation and progression._<br/>
 
 ### **SPIRE: a Searchable, Planetary-scale mIcrobiome REsource**
 
@@ -71,7 +69,7 @@ _**Relevance of the study:**_ _Disentangling the real burden of C. difficile fro
 
 Metagenomic data in public repositories is continuously growing. While this represents an unprecedented opportunity to find global patterns in microbiome data, it also comes with challenges in processing such large amount of data and organize the associated metadata in a consistent, searchable manner. SPIRE provides ~16Tbp of metagenomic assemblies (contigs), 35+ billion genes predicted from those contigs, and over 1 million metagenome-assembled genomes (MAGs) of medium or high quality, obtained from ~100k metagenomic samples from >700 published studies. In this work, I heavily contributed to the datasets processing and metadata curation. The data can be accessed and downloaded at [https://spire.embl.de/](https://spire.embl.de/). 
 
-_**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from metagenomic data remains a time-consuming and computationally very intensive task. For these reasons, t is often prohibitive for most labs to generate and process MAGs for large datasets. SPIRE addresses that barrier by providing pre-computed MAGs, greatly accelerating meta-analyses and enabling more accessible, genome-resolved microbiome research._ 
+_**Relevance of the study:**_ _Building metagenome-assembled genomes (MAGs) from metagenomic data remains a time-consuming and computationally very intensive task. For these reasons, t is often prohibitive for most labs to generate and process MAGs for large datasets. SPIRE addresses that barrier by providing pre-computed MAGs, greatly accelerating meta-analyses and enabling more accessible, genome-resolved microbiome research._<br/>
 
 
 ### **METALOG: Curated and harmonised metadata for metagenomic data**
