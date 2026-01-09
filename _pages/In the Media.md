@@ -12,7 +12,7 @@ This section features media coverage and press releases related to my work.
 
 Study: [Ferretti and Allert et al., Nature Communications, 2025](https://www.nature.com/articles/s41467-025-66497-y)
 
-[![Official UChicago Press release](https://pamelaferretti.github.io/assets/img/milk_UC.jpg)](https://www.uchicago.edu/press-release-link)
+[![Official UChicago Press release](https://pamelaferretti.github.io/assets/img/milk_UC.jpg)](https://biologicalsciences.uchicago.edu/news/microbes-breast-milk-populate-infant-gut-microbiomes)
 
 [![NewsWise](https://pamelaferretti.github.io/assets/img/newswise.jpg)](https://www.newswise.com/articles/microbes-in-breast-milk-help-populate-infant-gut-microbiomes)
 
