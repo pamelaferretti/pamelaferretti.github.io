@@ -18,14 +18,14 @@ This section features media coverage and press releases related to my work.<br>
 - Science Blog: [Breast milk delivers a living starter kit for the infant gut](https://scienceblog.com/breast-milk-delivers-a-living-starter-kit-for-the-infant-gut/)
 - News Medical:[Breast milk bacteria help shape infant gut microbiome development](https://www.news-medical.net/news/20260107/Breast-milk-bacteria-help-shape-infant-gut-microbiome-development.aspx)
 - Mirage News:[Breast milk microbes boost infant gut](https://www.miragenews.com/breast-milk-microbes-boost-infant-gut-1598730/)
-- The Microbiologist [Microbes-in-breast-milk-help-populate-infant-gut-microbiomes](https://www.the-microbiologist.com/news/microbes-in-breast-milk-help-populate-infant-gut-microbiomes/7729.article)
+- The Microbiologist: [Microbes-in-breast-milk-help-populate-infant-gut-microbiomes](https://www.the-microbiologist.com/news/microbes-in-breast-milk-help-populate-infant-gut-microbiomes/7729.article)
 
 **In Spanish**
-- Pensa Libre (in Spanish): [Diálogo microbiano: así se comunican la madre y el bebé a través de la leche](https://www.prensalibre.com/vida/salud-y-familia/dialogo-microbiano-asi-se-comunican-la-madre-y-el-bebe-a-traves-de-la-leche/)
-- Infobae (in Spanish): [Como la leche materna ayuda a la estabilidad del microbioma intestinal infantil](https://www.infobae.com/salud/2026/01/09/como-la-leche-materna-ayuda-a-la-estabilidad-del-microbioma-intestinal-infantil/)
+- Pensa Libre: [Diálogo microbiano: así se comunican la madre y el bebé a través de la leche](https://www.prensalibre.com/vida/salud-y-familia/dialogo-microbiano-asi-se-comunican-la-madre-y-el-bebe-a-traves-de-la-leche/)
+- Infobae: [Como la leche materna ayuda a la estabilidad del microbioma intestinal infantil](https://www.infobae.com/salud/2026/01/09/como-la-leche-materna-ayuda-a-la-estabilidad-del-microbioma-intestinal-infantil/)
 
 **In French**
-- The Conversation (in French): [Dialogue autour du microbiote : comment la mère et le bébé communiquent à travers le lait maternel](https://theconversation.com/dialogue-autour-du-microbiote-comment-la-mere-et-le-bebe-communiquent-a-travers-le-lait-maternel-274312)<br><br>
+- The Conversation: [Dialogue autour du microbiote : comment la mère et le bébé communiquent à travers le lait maternel](https://theconversation.com/dialogue-autour-du-microbiote-comment-la-mere-et-le-bebe-communiquent-a-travers-le-lait-maternel-274312)<br><br>
 
 ***
 
