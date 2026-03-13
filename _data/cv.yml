@@ -27,6 +27,12 @@
 - title: Awards
   type: time_table
   contents:
+    - title: Poster Award
+      year: 03/2026
+      institution: Human Milk Institute Symposium (HMI26), San Diego, United States
+    - title: ISME Scholar Mobility Fund
+      year: 11/2025
+      institution: International Society for Microbial Ecology (ISME)
     - title: Travel Award
       institution: University of Chicago for the EMBL conference "The Human Microbiome" 
       year: 09/2023
@@ -46,24 +52,27 @@
 - title: Academic Service
   type: time_table
   contents:
-    - title: Invited Reviewer for 20+ manuscripts
-      institution: Nature (co-review), Nature Communications, Nature Biofilms and Microbiomes, mSystems, ISME Journal, PLOS Computational Biology, FEMS Microbiology Ecology, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
-      year: since 2021
-    - title: Conference Organisation Committee & Chairing
-      institution: Microbiome Virtual International Forum (MVIF)
-      year: since 02/2023
+    - title: Advisory Group Member
+      institution: Applied Microbiology International (AMI) - One Health Advisory Group 
+      year: since 03/2026
+    - title: Member
+      institution: The Wildlife Society (TWS) - Wildlife Diseases and Molecular Ecology Working Groups  
+      year: since 08/2025
     - title: Conference Organisation Committee & Chairing
       institution: The Microbiome Center Symposium, University of Chicago
       year: 05/2025
     - title: Member
-      institution: International Society for Microbial Ecology (ISME)
-      year: since 08/2025
-    - title: Member
-      institution: The Wildlife Society (TWS) - Wildlife Diseases and Molecular Ecology Working Groups  
+      institution: International Data Reuse Consortium
       year: since 06/2024
     - title: Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
+    - title: Conference Organisation Committee & Chairing
+      institution: Microbiome Virtual International Forum (MVIF)
+      year: since 02/2023
+    - title: Invited Reviewer for 30+ manuscripts for 14 accredited journals
+      institution: Nature (co-review), Nature Communications, Cell Host & Microbe, Nature Biofilms and Microbiomes, mSystems, ISME Journal, Cell Reports, Critical Reviews in Food Science and Nutrition, PLOS Computational Biology, FEMS Microbiology Ecology, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
+      year: since 2020
 
 - title: Media & Interviews
   type: time_table
