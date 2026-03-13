@@ -77,29 +77,26 @@
 - title: Media & Interviews
   type: time_table
   contents:
-    - title: Interview
+    - title: Interview 
       institution: Gazzetta dell'Emilia - Italian Newspaper
-      year: 2025
+      year: 12/2025
     - title: Research featured on journal cover
       institution: Cell
-      year: 2025
+      year: 02/2025
     - title: Spotlight Article
       institution: University of Chicago
-      year: 2024
-    - title: Book Interview - (book in preparation)
-      year: 2023
-    - title: Book Interview
-      institution: ISBN 9788879756983
-      year: 2020
+      year: 03/2024
+    - title: Interview for the book “Anthropology of Microbes” (ISBN 9788879756983)
+      year: 08/2020
     - title: Research featured on journal cover 
       institution: Nature Reviews Microbiology
-      year: 2020
+      year: 06/2020
     - title: Research featured on journal cover 
       institution: Cell Host & Microbe
-      year: 2018
+      year: 07/2018
     - title: Regional News Coverage 
       institution: Buongiorno Regione Trentino news
-      year: 2018
+      year: 06/2018
 
 - title: Public Outreach
   type: time_table
