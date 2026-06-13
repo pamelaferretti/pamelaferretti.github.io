@@ -11,8 +11,8 @@ This section includes photos from conferences and field work trips.<br>
 ## Human Milk Institute (HMI) Symposium 2026
 
 <div class="gallery-grid">
-  <img src="/assets/img/Gallery/hmi_1.jpg" alt="HMI 2026" onclick="openLightbox(this)">
-  <img src="/assets/img/Gallery/hmi_2.jpg" alt="HMI 2026" onclick="openLightbox(this)">
+  <img src="/assets/img/Gallery/hmi_1.jpeg" alt="HMI 2026 poster award" onclick="openLightbox(this)">
+  <img src="/assets/img/Gallery/hmi_2.jpeg" alt="HMI 2026 group" onclick="openLightbox(this)">
 </div>
 
 <br>
