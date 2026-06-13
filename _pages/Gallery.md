@@ -21,7 +21,7 @@ This section includes photos from conferences and field work trips.<br>
 
 <div class="gallery-grid">
   <img src="/assets/img/Gallery/Amboseli_1.jpg" alt="Field Trip Amboseli" onclick="openLightbox(this)">
-  <img src="/assets/img/Gallery/Amboseli_2.jpg" alt="Field Trip Amboseli" onclick="openLightbox(this)">
+  <img src="/assets/img/Gallery/Amboseli_2.jpg" alt="Baboon_1" onclick="openLightbox(this)">
 </div>
 
 <!-- Lightbox Overlay -->
