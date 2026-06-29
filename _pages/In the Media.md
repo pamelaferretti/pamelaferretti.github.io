@@ -51,4 +51,4 @@ This section features media coverage and press releases related to my work.<br>
 ## Podcasts episodes <br>
 
 ***
-- I hosted a conversation with Elin Videvall on why microbes matter for wildlife health, survival, and conservation. Episode is available on the [MVIF channel](https://open.spotify.com/show/1f4lBWveBW5OPkmqCV9Zza) on [Spotify](https://open.spotify.com/episode/39MK9Kx7Ci0DhM5ZFLE21h?si=VA3aJSYJR8eXgvYIDxQF8Q&nd=1&dlsi=8c1086d17a114496)
+- I hosted a conversation with [Elin Videvall](https://www.videvall.com/) on why microbes matter for wildlife health, survival, and conservation. Episode is available on the [MVIF channel](https://open.spotify.com/show/1f4lBWveBW5OPkmqCV9Zza) on [Spotify](https://open.spotify.com/episode/39MK9Kx7Ci0DhM5ZFLE21h?si=VA3aJSYJR8eXgvYIDxQF8Q&nd=1&dlsi=8c1086d17a114496)
