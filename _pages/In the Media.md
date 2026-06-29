@@ -6,6 +6,8 @@ nav: true
 nav_order: 5
 ---
 
+## Press Releases
+
 This section features media coverage and press releases related to my work.<br>
 
 ***
@@ -45,3 +47,8 @@ This section features media coverage and press releases related to my work.<br>
 **[Nishijima et al., Cell, 2024](https://www.cell.com/cell/fulltext/S0092-8674(24)01204-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424012042%3Fshowall%3Dtrue)**<br>
 
 - The Microbiologist: [Microbial load can influence disease associations new model reveals](https://www.the-microbiologist.com/news/microbial-load-can-influence-disease-associations-new-model-reveals/4543.article)<br><br>
+
+## Podcasts episodes <br>
+
+***
+- I hosted a conversation with Elin Videvall on why microbes matter for wildlife health, survival, and conservation. Episode is available on the [MVIF channel](https://open.spotify.com/show/1f4lBWveBW5OPkmqCV9Zza) on [Spotify](https://open.spotify.com/episode/39MK9Kx7Ci0DhM5ZFLE21h?si=VA3aJSYJR8eXgvYIDxQF8Q&nd=1&dlsi=8c1086d17a114496)
