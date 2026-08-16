@@ -8,20 +8,20 @@ nav_order: 6
 
 This section includes photos from conferences and field work trips.<br>
 
-### Human Milk Institute (HMI) Symposium 2026
-
-<div class="gallery-grid">
-  <img src="/assets/img/Gallery/hmi_1.jpeg" alt="HMI 2026 poster award" onclick="openLightbox(this)">
-  <img src="/assets/img/Gallery/hmi_2.jpeg" alt="HMI 2026 group" onclick="openLightbox(this)">
-</div>
-
-<br>
-
-### Amboseli field trip
+### Amboseli field trip - June 2026
 
 <div class="gallery-grid">
   <img src="/assets/img/Gallery/Amboseli_1.jpg" alt="Field Trip Amboseli" onclick="openLightbox(this)">
   <img src="/assets/img/Gallery/Amboseli_2.jpg" alt="Baboon_1" onclick="openLightbox(this)">
+</div>
+
+<br>
+
+### Human Milk Institute (HMI) Symposium - April 2026
+
+<div class="gallery-grid">
+  <img src="/assets/img/Gallery/hmi_1.jpeg" alt="HMI 2026 poster award" onclick="openLightbox(this)">
+  <img src="/assets/img/Gallery/hmi_2.jpeg" alt="HMI 2026 participants" onclick="openLightbox(this)">
 </div>
 
 
@@ -40,8 +40,8 @@ This section includes photos from conferences and field work trips.<br>
 }
 
 .gallery-grid img {
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
   object-fit: cover;
   border-radius: 4px;
   cursor: pointer;
