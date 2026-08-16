@@ -34,14 +34,14 @@ This section includes photos from conferences and field work trips.<br>
 <style>
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 75px);
+  grid-template-columns: repeat(auto-fill, 150px);
   gap: 8px;
   margin-top: 10px;
 }
 
 .gallery-grid img {
-  width: 110px;
-  height: 110px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 4px;
   cursor: pointer;
