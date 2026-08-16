@@ -82,3 +82,6 @@ As part of my research, I contributed to the development of a manually curated, 
 
 _**Relevance of the study:**_ _Metadata for metagenomic studies are often scattered across multiple sources (e.g. publication text, supplementary tables, figures, public repositories), incomplete or erronoeous. METALOG addresses this issue by providing detailed, manually curated, and harmonized metadata for over 100,000 samples collected worldwide. When used in combination, METALOG and SPIRE offer a powerful framework that enables researchers to conduct robust microbiome studies and large-scale meta-analyses in a highly time- and resource-efficient manner._ 
 
+<p class="copyright-notice">
+  © 2026 [Pamela Ferretti]. All rights reserved. All photographs and content on this website may not be reproduced, distributed, or used for AI training, machine learning, or data mining purposes without explicit written permission.
+</p>
