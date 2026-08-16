@@ -103,3 +103,7 @@ document.addEventListener('keydown', function(e) {
   if (e.key === 'Escape') closeLightbox();
 });
 </script>
+
+<p class="copyright-notice">
+  © 2026 [Your Name]. All rights reserved. All photographs and content on this website may not be reproduced, distributed, or used for AI training, machine learning, or data mining purposes without explicit written permission.
+</p>
