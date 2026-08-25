@@ -1,13 +1,13 @@
 - title: Academic Career
   type: time_table
   contents:
-    - title: Postdoctoral Scholar (Prof. Ran Blekhman)
+    - title: Postdoctoral Scholar  - Prof. Ran Blekhman
       institution: University of Chicago, United States
       year: since 02/2023
-    - title: Bridging Postdoctoral Scholar (Prof. Peer Bork) 
+    - title: Bridging Postdoctoral Scholar - Prof. Peer Bork 
       institution: EMBL, Heidelberg, Germany
       year: 01/2022 - 06/2022
-    - title: Research Assistant (Prof. Nicola Segata)
+    - title: Research Assistant - Prof. Nicola Segata
       institution: University of Trento, Italy
       year: 08/2016 - 08/2017
 
@@ -59,7 +59,7 @@
       institution: Nature (co-review), Nature Microbiology (co-review), Nature Communications, Cell Host & Microbe, Nature Biofilms and Microbiomes, Microbiome, mSystems, ISME Journal, Cell Reports, Critical Reviews in Food Science and Nutrition, PLOS Computational Biology, FEMS Microbiology Ecology, Microbial Genomics, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
       year: since 2020
     - title: Conference Organisation Committee & Chairing
-      institution: The Microbiome Center Symposium, University of Chicago
+      institution: [The Microbiome Center Symposium](https://microbiome.uchicago.edu/resources/tmc-news/tmc-2025-microbiome-research-symposium), University of Chicago
       year: 05/2025
     - title: Conference Organisation Committee & Chairing
       institution: Microbiome Virtual International Forum (MVIF)
@@ -85,7 +85,7 @@
   type: time_table
   contents:
     - title: Podcast Episode Host 
-      institution: MVIF podcast episode "Wild Microbiomes," featuring [Elin Videvall](https://www.videvall.com/) (Uppsala University)
+      institution: MVIF podcast episode ["Wild Microbiomes"](https://www.youtube.com/watch?v=_wQ4AxWoPTc), featuring [Elin Videvall](https://www.videvall.com/) (Uppsala University)
       year: 07/2026
     - title: Interview 
       institution: Gazzetta dell'Emilia - Italian Newspaper
