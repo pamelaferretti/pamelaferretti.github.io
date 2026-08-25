@@ -7,7 +7,7 @@ importance: 5
 category: Logos
 ---
 
-This logo was designed together with Michael Kuhn and combining the feedback from the Bork lab members during one of our retreats!
+I designed the Bork lab logo together with Michael Kuhn, incorporating feedback from lab members at one of our retreats.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
