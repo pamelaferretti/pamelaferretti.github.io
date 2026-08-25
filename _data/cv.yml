@@ -52,12 +52,15 @@
 - title: Academic Service
   type: time_table
   contents:
-    - title: Invited Reviewer for 30+ manuscripts for 14 accredited journals
-      institution: Nature (co-review), Nature Communications, Cell Host & Microbe, Nature Biofilms and Microbiomes, mSystems, ISME Journal, Cell Reports, Critical Reviews in Food Science and Nutrition, PLOS Computational Biology, FEMS Microbiology Ecology, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
+    - title: Invited Reviewer for 30+ manuscripts
+      institution: Nature (co-review), Nature Microbiology (co-review), Nature Communications, Cell Host & Microbe, Nature Biofilms and Microbiomes, Microbiome, mSystems, ISME Journal, Cell Reports, Critical Reviews in Food Science and Nutrition, PLOS Computational Biology, FEMS Microbiology Ecology, Microbial Genomics, Current Opinion in Microbiology, PeerJ, PLOS One, and Scientific Reports.
       year: since 2020
     - title: Conference Organisation Committee & Chairing
       institution: The Microbiome Center Symposium, University of Chicago
       year: 05/2025
+    - title: Panel Judge
+      institution: 2026 L'Oréal USA For Women in Science Award 
+      year: 04/2026
     - title: Conference Organisation Committee & Chairing
       institution: Microbiome Virtual International Forum (MVIF)
       year: since 02/2023
@@ -73,10 +76,26 @@
     - title: Member
       institution: International Society for Microbial Ecology (ISME)
       year: since 08/2023
+      
+- title: Academic Membership & Advisory Groups
+  type: time_table
+  contents:
+    - title: One Health Advisory Group Member
+      institution: Applied Microbiology International (AMI)
+      year: Since March 2026
+    - title: Wildlife Diseases and Ecology Working Groups Member
+      institution: The Wildlife Society (TWS) 
+      year: Since August 2025
+    - title: Member
+      institution: International Society for Microbial Ecology (ISME) 
+      year: since August 2023
     
 - title: Media & Interviews
   type: time_table
   contents:
+    - title: Podcast Episode Host 
+      institution: MVIF podcast episode “Wild Microbiomes”, featuring Elin Videvall (Uppsala University) 
+      year: 07/2026
     - title: Interview 
       institution: Gazzetta dell'Emilia - Italian Newspaper
       year: 12/2025
@@ -84,7 +103,7 @@
       institution: Cell
       year: 02/2025
     - title: Spotlight Article
-      institution: University of Chicago
+      institution: University of Chicago, USA
       year: 03/2024
     - title: Interview for the book “Anthropology of Microbes” (ISBN 9788879756983)
       year: 08/2020
@@ -101,6 +120,9 @@
 - title: Public Outreach
   type: time_table
   contents:
+    - title: DNA Days
+      institution: University of Chicago, USA
+      year: since 10/2025
     - title: Penne Amiche della Scienza
       institution: Science correspondence program for students - virtual
       year: since 10/2025
