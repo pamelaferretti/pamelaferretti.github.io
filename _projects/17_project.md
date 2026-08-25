@@ -7,8 +7,7 @@ importance: 6
 category: Logos
 ---
 
-Designing the logo for the Blekhman lab was a lot of fun! Together with Rich Abdill and Sabrina Arif, we tried to create a logo that included the main topics of research of the lab: human genetics, metagenomics and metabolomics data analysis. Of course we included also the chicago skyline, which is visible from our offices!
-The logo was designed in Inkscape.
+I designed the Blekhman lab logo together with Rich Abdill and Sabrina Arif, reflecting the lab's research (human genetics, metagenomics, and metabolomics) along with the Chicago skyline visible from our offices. Made in Inkscape.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
