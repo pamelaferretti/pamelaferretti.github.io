@@ -91,7 +91,7 @@
       institution: Gazzetta dell'Emilia - Italian Newspaper
       year: 12/2025
     - title: Research featured on journal cover
-      institution: Cell
+      institution: [Cell](https://www.cell.com/cell/issue?pii=S0092-8674(24)X0005-7)
       year: 02/2025
     - title: Spotlight Article
       institution: University of Chicago, USA
@@ -100,10 +100,10 @@
       institution: “Anthropology of Microbes” ([ISBN 9788879756983](https://www.unilibro.it/libro/raffaeta-roberta/antropologia-microbi-come-metagenomica-sta-configurando-umano-salute/9788879756983?srsltid=AfmBOornIWrwmEbKgYRIpS2tg1cR3ZPTfWtmykE1vIZMpZIk14mz9xaD))
       year: 08/2020
     - title: Research featured on journal cover 
-      institution: Nature Reviews Microbiology
+      institution: [Nature Reviews Microbiology](https://www.nature.com/nrmicro/volumes/18/issues/9)
       year: 06/2020
     - title: Research featured on journal cover 
-      institution: Cell Host & Microbe
+      institution: [Cell Host & Microbe](https://www.cell.com/cell-host-microbe/issue?pii=S1931-3128(17)X0005-X)
       year: 07/2018
     - title: Regional News Coverage 
       institution: Buongiorno Regione Trentino news
